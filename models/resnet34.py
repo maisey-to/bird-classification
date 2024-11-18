@@ -98,6 +98,7 @@
 #         return out
 
 
+from multiprocessing import freeze_support
 import torchvision
 
 import pandas as pd
@@ -182,8 +183,6 @@ def read_image(path):
     im = cv2.imread(str(path))
     return cv2.cvtColor(im, cv2.COLOR_BGR2RGB)
 
-
-
 # Data Augmentation
 import math
 def center_crop(im, min_sz=None):
@@ -212,16 +211,10 @@ def rotate_cv(im, deg, mode=cv2.BORDER_REFLECT, interpolation=cv2.INTER_AREA):
     return cv2.warpAffine(im,M,(c,r), borderMode=mode, 
                           flags=cv2.WARP_FILL_OUTLIERS+interpolation)
 
-
-
-
 def normalize(im):
     """Normalizes images with Imagenet stats."""
     imagenet_stats = np.array([[0.485, 0.456, 0.406], [0.229, 0.224, 0.225]])
     return (im/255.0 - imagenet_stats[0])/imagenet_stats[1]
-
-
-
 
 def apply_transforms(x, sz=(224, 224), zoom=1.05):
     """ Applies a random crop, rotation"""
@@ -234,21 +227,14 @@ def apply_transforms(x, sz=(224, 224), zoom=1.05):
                 x = np.fliplr(x).copy()
     return x
 
-
-
-
 def denormalize(img):
   imagenet_stats = np.array([[0.485, 0.456, 0.406], [0.229, 0.224, 0.225]])
   return img*imagenet_stats[1] + imagenet_stats[0]
-
-
-
 
 def show_image(img):
   img = img.transpose(1,2,0)
   img= denormalize(img)
   plt.imshow(img)
-
 
 def visualize(dataloader, categories):
     """Imshow for Tensor."""
@@ -264,54 +250,15 @@ def visualize(dataloader, categories):
       plt.imshow(inp)
       plt.title(str(categories[y[i]]))
 
-
-
-
-PATH = Path('./archive/CUB_200_2011')
-labels = pd.read_csv(PATH/"image_class_labels.txt", header=None, sep=" ")
-labels.columns = ["id", "label"]
-labels.head(2)
-
-print("Made it to 275")
-labels.describe()
-
-
-print("Made it to 279")
-train_test = pd.read_csv(PATH/"train_test_split.txt", header=None, sep=" ")
-train_test.columns = ["id", "is_train"]
-train_test.head(2)
-
-print("Made it to 284")
-images = pd.read_csv(PATH/"images.txt", header=None, sep=" ")
-images.columns = ["id", "name"]
-images.head(2)
-
-print("Made it to 289")
-classes = pd.read_csv(PATH/"classes.txt", header=None, sep=" ")
-classes.columns = ["id", "class"]
-classes.head(2)
-
-print("Made it to 294")
-categories = [x for x in classes["class"]]
-
-print("Made it to 297")
-train_dataset = CUB(PATH, labels, train_test, images, train= True, transform= True)
-valid_dataset = CUB(PATH, labels, train_test, images, train= False, transform= False)
-print("Made it to 300")
-train_loader = DataLoader(train_dataset, batch_size=64, shuffle=True, num_workers=1)
-valid_loader = DataLoader(valid_dataset, batch_size=64, num_workers=1)
-
-print("Made it to 304")
 def get_optimizer(model, lr = 0.01, wd = 0.0):
     parameters = filter(lambda p: p.requires_grad, model.parameters())
     optim = torch.optim.Adam(parameters, lr=lr, weight_decay=wd)
     return optim
 
-print("Made it to 310")
 def save_model(m, p): torch.save(m.state_dict(), p)
-print("Made it to 312")  
+
 def load_model(m, p): m.load_state_dict(torch.load(p))
-print("Made it to 314")
+
 def LR_range_finder(model, train_dl, lr_low=1e-5, lr_high=1, epochs=1, beta=0.9):
   losses = []
   # Model save path
@@ -359,7 +306,6 @@ def LR_range_finder(model, train_dl, lr_low=1e-5, lr_high=1, epochs=1, beta=0.9)
   print("made it to 357")
   load_model(model, str(p))
   return log_lrs, losses
-
 
 def get_triangular_lr(lr_low, lr_high, iterations):
     iter1 = int(0.35*iterations)
@@ -420,7 +366,6 @@ def val_metrics(model, valid_dl):
     print("val loss and accuracy", sum_loss/total, correct/total)
 
 from datetime import datetime
-
 def training_loop(model, train_dl, valid_dl, steps=3, lr_low=1e-6, lr_high=0.01, epochs = 4):
     for i in range(steps):
         start = datetime.now() 
@@ -429,34 +374,6 @@ def training_loop(model, train_dl, valid_dl, steps=3, lr_low=1e-6, lr_high=0.01,
         t = 'Time elapsed {}'.format(end - start)
         print("----End of step", t)
 
-model = Net().cuda()
-
-
-print("Made it to 432")
-lrs, losses = LR_range_finder(model, train_loader, lr_low=1e-6, lr_high=0.1)
-
-
-print("Made it to 436")
-plt.plot(lrs, losses)
-plt.show()
-
-
-
-val_metrics(model, valid_loader)
-
-
-
-
-training_loop(model, train_loader, valid_loader, steps=1, lr_low= 1e-3, lr_high=1*1e-2, epochs = 16)
-
-
-
-p = PATH/"model1_tmp.pth"
-save_model(model, str(p))
-load_model(model, str(p))
-
-
-
 def set_trainable_attr(m, b=True):
     for p in m.parameters(): p.requires_grad = b
 
@@ -464,9 +381,7 @@ def unfreeze(model, l):
     top_model = model.top_model
     set_trainable_attr(top_model[l])
 
-unfreeze(model, 7)
-unfreeze(model, 6)
-unfreeze(model, 5)
+
 
 
 
@@ -503,5 +418,86 @@ training_loop(model, train_loader, valid_loader, steps=1, lr_low= 1e-7, lr_high=
 
 training_loop(model, train_loader, valid_loader, steps=1, lr_low= 1e-7, lr_high=5*1e-7, epochs = 10)
 
+if __name__ == '__main__':
+    PATH = Path('./archive/CUB_200_2011')
+    labels = pd.read_csv(PATH/"image_class_labels.txt", header=None, sep=" ")
+    labels.columns = ["id", "label"]
+    labels.head(2)
+
+    print("Made it to 275")
+    labels.describe()
 
 
+    print("Made it to 279")
+    train_test = pd.read_csv(PATH/"train_test_split.txt", header=None, sep=" ")
+    train_test.columns = ["id", "is_train"]
+    train_test.head(2)
+
+    print("Made it to 284")
+    images = pd.read_csv(PATH/"images.txt", header=None, sep=" ")
+    images.columns = ["id", "name"]
+    images.head(2)
+
+    print("Made it to 289")
+    classes = pd.read_csv(PATH/"classes.txt", header=None, sep=" ")
+    classes.columns = ["id", "class"]
+    classes.head(2)
+
+    print("Made it to 294")
+    categories = [x for x in classes["class"]]
+
+    print("Made it to 297")
+    train_dataset = CUB(PATH, labels, train_test, images, train= True, transform= True)
+    valid_dataset = CUB(PATH, labels, train_test, images, train= False, transform= False)
+    print("Made it to 300")
+    train_loader = DataLoader(train_dataset, batch_size=64, shuffle=True, num_workers=1)
+    valid_loader = DataLoader(valid_dataset, batch_size=64, num_workers=1)
+    p = PATH/"model1_tmp.pth"
+    save_model(model, str(p))
+    load_model(model, str(p))
+    
+    model = Net().cuda()
+
+
+print("Made it to 432")
+lrs, losses = LR_range_finder(model, train_loader, lr_low=1e-6, lr_high=0.1)
+
+
+print("Made it to 436")
+plt.plot(lrs, losses)
+plt.show()
+
+
+
+val_metrics(model, valid_loader)
+
+
+
+
+training_loop(model, train_loader, valid_loader, steps=1, lr_low= 1e-3, lr_high=1*1e-2, epochs = 16)
+
+
+
+    freeze_support()
+    classes.columns = ["id", "class"]
+    classes.head(2)
+
+    print("Made it to 294")
+    categories = [x for x in classes["class"]]
+
+    print("Made it to 297")
+    train_dataset = CUB(PATH, labels, train_test, images, train= True, transform= True)
+    valid_dataset = CUB(PATH, labels, train_test, images, train= False, transform= False)
+    print("Made it to 300")
+    train_loader = DataLoader(train_dataset, batch_size=64, shuffle=True, num_workers=1)
+    valid_loader = DataLoader(valid_dataset, batch_size=64, num_workers=1)
+
+    print("Made it to 304")
+    def get_optimizer(model, lr = 0.01, wd = 0.0):
+        parameters = filter(lambda p: p.requires_grad, model.parameters())
+        optim = torch.optim.Adam(parameters, lr=lr, weight_decay=wd)
+        return optim
+
+    print("Made it to 310")
+    def save_model(m, p): torch.save(m.state_dict(), p)
+    print("Made it to 312")
