@@ -1,3 +1,8 @@
+'''
+Directly from https://www.kaggle.com/code/givkashi/cub-image-classification-with-resnet34/notebook
+Using as a benchmark
+'''
+
 import torch
 import torchvision
 import pandas as pd
@@ -238,6 +243,8 @@ def val_metrics(model, valid_dl):
         sum_loss += batch*(loss.item())
         total += batch
     print("val loss and accuracy", sum_loss/total, correct/total)
+    with open('./results/resnet.txt', 'a') as f:
+        f.write("val loss and accuracy {} {}\n".format(sum_loss/total, correct/total))
 
 def train_triangular_policy(model, train_dl, valid_dl, lr_low=1e-5, 
                             lr_high=0.01, epochs = 4):
@@ -263,6 +270,8 @@ def train_triangular_policy(model, train_dl, valid_dl, lr_low=1e-5,
             total += batch
             sum_loss += batch*(loss.item())
         print("train loss", sum_loss/total)
+        with open('./results/resnet.txt', 'a') as f:
+            f.write("train loss {}\n".format(sum_loss/total))
         val_metrics(model, valid_dl)
     return sum_loss/total
 
@@ -274,6 +283,8 @@ def training_loop(model, train_dl, valid_dl, steps=3, lr_low=1e-6, lr_high=0.01,
         end = datetime.now()
         t = 'Time elapsed {}'.format(end - start)
         print("----End of step", t)
+        with open('./results/resnet.txt', 'a') as f:
+            f.write("----End of step {}\n".format(t))
 
 def set_trainable_attr(m, b=True):
     for p in m.parameters(): p.requires_grad = b
@@ -323,7 +334,8 @@ def main():
 
     training_loop(model, train_loader, valid_loader, steps=1, lr_low= 1e-3, lr_high=1*1e-2, epochs = 16)
 
-    p = PATH/"model1_tmp.pth"
+    PATH2 = "./results/models"
+    p = PATH2/"model1_tmp.pth"
     save_model(model, str(p))
     load_model(model, str(p))
 
@@ -338,7 +350,7 @@ def main():
 
     training_loop(model, train_loader, valid_loader, steps=1, lr_low= 1e-5, lr_high=1*1e-4, epochs = 30)
 
-    p = PATH/"model2_tmp.pth"
+    p = PATH2/"model2_tmp.pth"
     save_model(model, str(p))
     load_model(model, str(p))
 

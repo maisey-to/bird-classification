@@ -1,0 +1,1351 @@
+Epoch [1/400], Step [166/166], Loss: 5.1991
+Accuracy of the network on the 5000 validation images: 1.6129032258064515 %
+Epoch [2/400], Step [166/166], Loss: 4.4615
+Accuracy of the network on the 5000 validation images: 3.9898132427843804 %
+Epoch [3/400], Step [166/166], Loss: 4.1579
+Accuracy of the network on the 5000 validation images: 6.112054329371817 %
+Epoch [4/400], Step [166/166], Loss: 3.9629
+Accuracy of the network on the 5000 validation images: 10.0169779286927 %
+Epoch [5/400], Step [166/166], Loss: 3.5169
+Accuracy of the network on the 5000 validation images: 13.837011884550085 %
+Epoch [6/400], Step [166/166], Loss: 3.5940
+Accuracy of the network on the 5000 validation images: 15.619694397283531 %
+Epoch [7/400], Step [166/166], Loss: 3.0211
+Accuracy of the network on the 5000 validation images: 19.949066213921903 %
+Epoch [8/400], Step [166/166], Loss: 2.8339
+Accuracy of the network on the 5000 validation images: 22.156196943972834 %
+Epoch [9/400], Step [166/166], Loss: 2.5728
+Accuracy of the network on the 5000 validation images: 23.2597623089983 %
+Epoch [10/400], Step [166/166], Loss: 2.3900
+Accuracy of the network on the 5000 validation images: 22.66553480475382 %
+Epoch [11/400], Step [166/166], Loss: 2.6472
+Accuracy of the network on the 5000 validation images: 27.419354838709676 %
+Epoch [12/400], Step [166/166], Loss: 2.6234
+Accuracy of the network on the 5000 validation images: 28.438030560271645 %
+Epoch [13/400], Step [166/166], Loss: 2.1512
+Accuracy of the network on the 5000 validation images: 27.92869269949066 %
+Epoch [14/400], Step [166/166], Loss: 2.1509
+Accuracy of the network on the 5000 validation images: 30.730050933786078 %
+Epoch [15/400], Step [166/166], Loss: 2.4287
+Accuracy of the network on the 5000 validation images: 29.541595925297113 %
+Epoch [16/400], Step [166/166], Loss: 2.6211
+Accuracy of the network on the 5000 validation images: 33.78607809847199 %
+Epoch [17/400], Step [166/166], Loss: 2.5141
+Accuracy of the network on the 5000 validation images: 34.21052631578947 %
+Epoch [18/400], Step [166/166], Loss: 1.8995
+Accuracy of the network on the 5000 validation images: 32.93718166383701 %
+Epoch [19/400], Step [166/166], Loss: 1.7268
+Accuracy of the network on the 5000 validation images: 34.97453310696095 %
+Epoch [20/400], Step [166/166], Loss: 2.0950
+Accuracy of the network on the 5000 validation images: 36.24787775891341 %
+Epoch [21/400], Step [166/166], Loss: 1.9407
+Accuracy of the network on the 5000 validation images: 34.46519524617997 %
+Epoch [22/400], Step [166/166], Loss: 1.7955
+Accuracy of the network on the 5000 validation images: 38.539898132427844 %
+Epoch [23/400], Step [166/166], Loss: 1.6485
+Accuracy of the network on the 5000 validation images: 37.35144312393888 %
+Epoch [24/400], Step [166/166], Loss: 1.5782
+Accuracy of the network on the 5000 validation images: 38.030560271646856 %
+Epoch [25/400], Step [166/166], Loss: 1.4738
+Accuracy of the network on the 5000 validation images: 38.37011884550085 %
+Epoch [26/400], Step [166/166], Loss: 1.4380
+Accuracy of the network on the 5000 validation images: 40.0679117147708 %
+Epoch [27/400], Step [166/166], Loss: 1.6382
+Accuracy of the network on the 5000 validation images: 41.25636672325976 %
+Epoch [28/400], Step [166/166], Loss: 1.5906
+Accuracy of the network on the 5000 validation images: 41.25636672325976 %
+Epoch [29/400], Step [166/166], Loss: 1.1474
+Accuracy of the network on the 5000 validation images: 40.74702886247878 %
+Epoch [30/400], Step [166/166], Loss: 1.3630
+Accuracy of the network on the 5000 validation images: 41.76570458404075 %
+Epoch [31/400], Step [166/166], Loss: 1.2195
+Accuracy of the network on the 5000 validation images: 42.19015280135823 %
+Epoch [32/400], Step [166/166], Loss: 1.5044
+Accuracy of the network on the 5000 validation images: 40.0679117147708 %
+Epoch [33/400], Step [166/166], Loss: 1.0739
+Accuracy of the network on the 5000 validation images: 42.35993208828523 %
+Epoch [34/400], Step [166/166], Loss: 1.0825
+Accuracy of the network on the 5000 validation images: 42.78438030560272 %
+Epoch [35/400], Step [166/166], Loss: 1.0542
+Accuracy of the network on the 5000 validation images: 42.35993208828523 %
+Epoch [36/400], Step [166/166], Loss: 1.0715
+Accuracy of the network on the 5000 validation images: 42.10526315789474 %
+Epoch [37/400], Step [166/166], Loss: 0.7909
+Accuracy of the network on the 5000 validation images: 43.20882852292021 %
+Epoch [38/400], Step [166/166], Loss: 1.0408
+Accuracy of the network on the 5000 validation images: 42.27504244482173 %
+Epoch [39/400], Step [166/166], Loss: 1.1064
+Accuracy of the network on the 5000 validation images: 42.444821731748725 %
+Epoch [40/400], Step [166/166], Loss: 1.1349
+Accuracy of the network on the 5000 validation images: 44.48217317487266 %
+Epoch [41/400], Step [166/166], Loss: 1.0313
+Accuracy of the network on the 5000 validation images: 41.511035653650254 %
+Epoch [42/400], Step [166/166], Loss: 0.9001
+Accuracy of the network on the 5000 validation images: 46.264855687606115 %
+Epoch [43/400], Step [166/166], Loss: 1.1357
+Accuracy of the network on the 5000 validation images: 44.397283531409165 %
+Epoch [44/400], Step [166/166], Loss: 1.0855
+Accuracy of the network on the 5000 validation images: 43.12393887945671 %
+Epoch [45/400], Step [166/166], Loss: 1.1091
+Accuracy of the network on the 5000 validation images: 43.378607809847196 %
+Epoch [46/400], Step [166/166], Loss: 0.6691
+Accuracy of the network on the 5000 validation images: 43.20882852292021 %
+Epoch [47/400], Step [166/166], Loss: 0.7723
+Accuracy of the network on the 5000 validation images: 42.61460101867572 %
+Epoch [48/400], Step [166/166], Loss: 1.0387
+Accuracy of the network on the 5000 validation images: 42.27504244482173 %
+Epoch [49/400], Step [166/166], Loss: 0.4323
+Accuracy of the network on the 5000 validation images: 43.54838709677419 %
+Epoch [50/400], Step [166/166], Loss: 0.8749
+Accuracy of the network on the 5000 validation images: 42.95415959252971 %
+Epoch [51/400], Step [166/166], Loss: 0.7312
+Accuracy of the network on the 5000 validation images: 44.73684210526316 %
+Epoch [52/400], Step [166/166], Loss: 0.9560
+Accuracy of the network on the 5000 validation images: 41.59592529711375 %
+Epoch [53/400], Step [166/166], Loss: 0.5772
+Accuracy of the network on the 5000 validation images: 44.14261460101868 %
+Epoch [54/400], Step [166/166], Loss: 1.0795
+Accuracy of the network on the 5000 validation images: 41.426146010186756 %
+Epoch [55/400], Step [166/166], Loss: 0.5986
+Accuracy of the network on the 5000 validation images: 42.02037351443124 %
+Epoch [56/400], Step [166/166], Loss: 0.7759
+Accuracy of the network on the 5000 validation images: 42.78438030560272 %
+Epoch [57/400], Step [166/166], Loss: 0.9035
+Accuracy of the network on the 5000 validation images: 42.61460101867572 %
+Epoch [58/400], Step [166/166], Loss: 0.6611
+Accuracy of the network on the 5000 validation images: 43.803056027164686 %
+Epoch [59/400], Step [166/166], Loss: 0.6260
+Accuracy of the network on the 5000 validation images: 45.07640067911715 %
+Epoch [60/400], Step [166/166], Loss: 0.5931
+Accuracy of the network on the 5000 validation images: 43.71816638370119 %
+Epoch [61/400], Step [166/166], Loss: 0.5837
+Accuracy of the network on the 5000 validation images: 44.31239388794567 %
+Epoch [62/400], Step [166/166], Loss: 0.4702
+Accuracy of the network on the 5000 validation images: 45.33106960950764 %
+Epoch [63/400], Step [166/166], Loss: 0.9913
+Accuracy of the network on the 5000 validation images: 45.33106960950764 %
+Epoch [64/400], Step [166/166], Loss: 0.8307
+Accuracy of the network on the 5000 validation images: 46.94397283531409 %
+Epoch [65/400], Step [166/166], Loss: 0.6150
+Accuracy of the network on the 5000 validation images: 42.69949066213922 %
+Epoch [66/400], Step [166/166], Loss: 0.4198
+Accuracy of the network on the 5000 validation images: 42.52971137521222 %
+Epoch [67/400], Step [166/166], Loss: 0.5219
+Accuracy of the network on the 5000 validation images: 45.246179966044146 %
+Epoch [68/400], Step [166/166], Loss: 0.6174
+Accuracy of the network on the 5000 validation images: 43.63327674023769 %
+Epoch [69/400], Step [166/166], Loss: 0.5272
+Accuracy of the network on the 5000 validation images: 43.20882852292021 %
+Epoch [70/400], Step [166/166], Loss: 0.5151
+Accuracy of the network on the 5000 validation images: 43.378607809847196 %
+Epoch [71/400], Step [166/166], Loss: 0.8210
+Accuracy of the network on the 5000 validation images: 42.69949066213922 %
+Epoch [72/400], Step [166/166], Loss: 0.4615
+Accuracy of the network on the 5000 validation images: 44.05772495755518 %
+Epoch [73/400], Step [166/166], Loss: 0.4493
+Accuracy of the network on the 5000 validation images: 44.821731748726656 %
+Epoch [74/400], Step [166/166], Loss: 0.7797
+Accuracy of the network on the 5000 validation images: 45.16129032258065 %
+Epoch [75/400], Step [166/166], Loss: 0.7328
+Accuracy of the network on the 5000 validation images: 44.48217317487266 %
+Epoch [76/400], Step [166/166], Loss: 0.6193
+Accuracy of the network on the 5000 validation images: 41.850594227504246 %
+Epoch [77/400], Step [166/166], Loss: 0.8946
+Accuracy of the network on the 5000 validation images: 44.99151103565365 %
+Epoch [78/400], Step [166/166], Loss: 0.4711
+Accuracy of the network on the 5000 validation images: 43.97283531409168 %
+Epoch [79/400], Step [166/166], Loss: 0.4510
+Accuracy of the network on the 5000 validation images: 42.869269949066215 %
+Epoch [80/400], Step [166/166], Loss: 0.6904
+Accuracy of the network on the 5000 validation images: 43.54838709677419 %
+Epoch [81/400], Step [166/166], Loss: 0.3955
+Accuracy of the network on the 5000 validation images: 44.821731748726656 %
+Epoch [82/400], Step [166/166], Loss: 0.5927
+Accuracy of the network on the 5000 validation images: 44.31239388794567 %
+Epoch [83/400], Step [166/166], Loss: 0.5212
+Accuracy of the network on the 5000 validation images: 44.05772495755518 %
+Epoch [84/400], Step [166/166], Loss: 0.5985
+Accuracy of the network on the 5000 validation images: 45.33106960950764 %
+Epoch [85/400], Step [166/166], Loss: 0.2700
+Accuracy of the network on the 5000 validation images: 44.99151103565365 %
+Epoch [86/400], Step [166/166], Loss: 0.6851
+Accuracy of the network on the 5000 validation images: 44.227504244482176 %
+Epoch [87/400], Step [166/166], Loss: 0.5101
+Accuracy of the network on the 5000 validation images: 42.02037351443124 %
+Epoch [88/400], Step [166/166], Loss: 0.6471
+Accuracy of the network on the 5000 validation images: 44.821731748726656 %
+Epoch [89/400], Step [166/166], Loss: 0.5550
+Accuracy of the network on the 5000 validation images: 44.48217317487266 %
+Epoch [90/400], Step [166/166], Loss: 0.4833
+Accuracy of the network on the 5000 validation images: 43.71816638370119 %
+Epoch [91/400], Step [166/166], Loss: 0.7178
+Accuracy of the network on the 5000 validation images: 44.14261460101868 %
+Epoch [92/400], Step [166/166], Loss: 0.5499
+Accuracy of the network on the 5000 validation images: 41.935483870967744 %
+Epoch [93/400], Step [166/166], Loss: 0.6255
+Accuracy of the network on the 5000 validation images: 42.444821731748725 %
+Epoch [94/400], Step [166/166], Loss: 0.6311
+Accuracy of the network on the 5000 validation images: 44.821731748726656 %
+Epoch [95/400], Step [166/166], Loss: 0.4430
+Accuracy of the network on the 5000 validation images: 42.78438030560272 %
+Epoch [96/400], Step [166/166], Loss: 0.5835
+Accuracy of the network on the 5000 validation images: 43.71816638370119 %
+Epoch [97/400], Step [166/166], Loss: 0.5947
+Accuracy of the network on the 5000 validation images: 43.54838709677419 %
+Epoch [98/400], Step [166/166], Loss: 0.4121
+Accuracy of the network on the 5000 validation images: 43.03904923599321 %
+Epoch [99/400], Step [166/166], Loss: 0.5126
+Accuracy of the network on the 5000 validation images: 43.803056027164686 %
+Epoch [100/400], Step [166/166], Loss: 0.4005
+Accuracy of the network on the 5000 validation images: 43.887945670628184 %
+Epoch [101/400], Step [166/166], Loss: 0.4087
+Accuracy of the network on the 5000 validation images: 45.246179966044146 %
+Epoch [102/400], Step [166/166], Loss: 0.4549
+Accuracy of the network on the 5000 validation images: 44.05772495755518 %
+Epoch [103/400], Step [166/166], Loss: 0.5683
+Accuracy of the network on the 5000 validation images: 42.61460101867572 %
+Epoch [104/400], Step [166/166], Loss: 0.5455
+Accuracy of the network on the 5000 validation images: 44.65195246179966 %
+Epoch [105/400], Step [166/166], Loss: 0.5646
+Accuracy of the network on the 5000 validation images: 44.65195246179966 %
+Epoch [106/400], Step [166/166], Loss: 0.2945
+Accuracy of the network on the 5000 validation images: 41.511035653650254 %
+Epoch [107/400], Step [166/166], Loss: 0.5606
+Accuracy of the network on the 5000 validation images: 45.246179966044146 %
+Epoch [108/400], Step [166/166], Loss: 0.4896
+Accuracy of the network on the 5000 validation images: 42.02037351443124 %
+Epoch [109/400], Step [166/166], Loss: 0.3469
+Accuracy of the network on the 5000 validation images: 45.92529711375212 %
+Epoch [110/400], Step [166/166], Loss: 0.3454
+Accuracy of the network on the 5000 validation images: 43.12393887945671 %
+Epoch [111/400], Step [166/166], Loss: 0.3401
+Accuracy of the network on the 5000 validation images: 43.71816638370119 %
+Epoch [112/400], Step [166/166], Loss: 0.3236
+Accuracy of the network on the 5000 validation images: 44.99151103565365 %
+Epoch [113/400], Step [166/166], Loss: 0.4911
+Accuracy of the network on the 5000 validation images: 44.397283531409165 %
+Epoch [114/400], Step [166/166], Loss: 0.6969
+Accuracy of the network on the 5000 validation images: 41.34125636672326 %
+Epoch [115/400], Step [166/166], Loss: 0.5659
+Accuracy of the network on the 5000 validation images: 45.92529711375212 %
+Epoch [116/400], Step [166/166], Loss: 0.4563
+Accuracy of the network on the 5000 validation images: 44.65195246179966 %
+Epoch [117/400], Step [166/166], Loss: 0.4752
+Accuracy of the network on the 5000 validation images: 42.444821731748725 %
+Epoch [118/400], Step [166/166], Loss: 0.5083
+Accuracy of the network on the 5000 validation images: 44.821731748726656 %
+Epoch [119/400], Step [166/166], Loss: 0.5992
+Accuracy of the network on the 5000 validation images: 42.69949066213922 %
+Epoch [120/400], Step [166/166], Loss: 0.6452
+Accuracy of the network on the 5000 validation images: 42.69949066213922 %
+Epoch [121/400], Step [166/166], Loss: 0.5875
+Accuracy of the network on the 5000 validation images: 43.378607809847196 %
+Epoch [122/400], Step [166/166], Loss: 0.2729
+Accuracy of the network on the 5000 validation images: 43.97283531409168 %
+Epoch [123/400], Step [166/166], Loss: 0.6343
+Accuracy of the network on the 5000 validation images: 45.246179966044146 %
+Epoch [124/400], Step [166/166], Loss: 0.4015
+Accuracy of the network on the 5000 validation images: 44.56706281833616 %
+Epoch [125/400], Step [166/166], Loss: 0.2832
+Accuracy of the network on the 5000 validation images: 44.56706281833616 %
+Epoch [126/400], Step [166/166], Loss: 0.3180
+Accuracy of the network on the 5000 validation images: 44.397283531409165 %
+Epoch [127/400], Step [166/166], Loss: 0.6979
+Accuracy of the network on the 5000 validation images: 44.821731748726656 %
+Epoch [128/400], Step [166/166], Loss: 0.3931
+Accuracy of the network on the 5000 validation images: 43.54838709677419 %
+Epoch [129/400], Step [166/166], Loss: 0.2524
+Accuracy of the network on the 5000 validation images: 44.31239388794567 %
+Epoch [130/400], Step [166/166], Loss: 0.5180
+Accuracy of the network on the 5000 validation images: 42.69949066213922 %
+Epoch [131/400], Step [166/166], Loss: 0.5750
+Accuracy of the network on the 5000 validation images: 43.20882852292021 %
+Epoch [132/400], Step [166/166], Loss: 0.3730
+Accuracy of the network on the 5000 validation images: 44.227504244482176 %
+Epoch [133/400], Step [166/166], Loss: 0.3907
+Accuracy of the network on the 5000 validation images: 45.07640067911715 %
+Epoch [134/400], Step [166/166], Loss: 0.4434
+Accuracy of the network on the 5000 validation images: 43.803056027164686 %
+Epoch [135/400], Step [166/166], Loss: 0.5956
+Accuracy of the network on the 5000 validation images: 47.283531409168084 %
+Epoch [136/400], Step [166/166], Loss: 0.4866
+Accuracy of the network on the 5000 validation images: 42.02037351443124 %
+Epoch [137/400], Step [166/166], Loss: 0.4355
+Accuracy of the network on the 5000 validation images: 43.887945670628184 %
+Epoch [138/400], Step [166/166], Loss: 0.5228
+Accuracy of the network on the 5000 validation images: 46.5195246179966 %
+Epoch [139/400], Step [166/166], Loss: 0.3112
+Accuracy of the network on the 5000 validation images: 44.99151103565365 %
+Epoch [140/400], Step [166/166], Loss: 0.2578
+Accuracy of the network on the 5000 validation images: 42.35993208828523 %
+Epoch [141/400], Step [166/166], Loss: 0.2830
+Accuracy of the network on the 5000 validation images: 44.397283531409165 %
+Epoch [142/400], Step [166/166], Loss: 0.5571
+Accuracy of the network on the 5000 validation images: 44.227504244482176 %
+Epoch [143/400], Step [166/166], Loss: 0.4791
+Accuracy of the network on the 5000 validation images: 43.20882852292021 %
+Epoch [144/400], Step [166/166], Loss: 0.4163
+Accuracy of the network on the 5000 validation images: 44.31239388794567 %
+Epoch [145/400], Step [166/166], Loss: 0.4988
+Accuracy of the network on the 5000 validation images: 46.34974533106961 %
+Epoch [146/400], Step [166/166], Loss: 0.4418
+Accuracy of the network on the 5000 validation images: 45.58573853989813 %
+Epoch [147/400], Step [166/166], Loss: 0.2737
+Accuracy of the network on the 5000 validation images: 42.869269949066215 %
+Epoch [148/400], Step [166/166], Loss: 0.5666
+Accuracy of the network on the 5000 validation images: 45.50084889643463 %
+Epoch [149/400], Step [166/166], Loss: 0.5621
+Accuracy of the network on the 5000 validation images: 44.65195246179966 %
+Epoch [150/400], Step [166/166], Loss: 0.3552
+Accuracy of the network on the 5000 validation images: 44.397283531409165 %
+Epoch [151/400], Step [166/166], Loss: 0.3789
+Accuracy of the network on the 5000 validation images: 45.58573853989813 %
+Epoch [152/400], Step [166/166], Loss: 0.3930
+Accuracy of the network on the 5000 validation images: 43.03904923599321 %
+Epoch [153/400], Step [166/166], Loss: 0.4191
+Accuracy of the network on the 5000 validation images: 42.02037351443124 %
+Epoch [154/400], Step [166/166], Loss: 0.2695
+Accuracy of the network on the 5000 validation images: 43.20882852292021 %
+Epoch [155/400], Step [166/166], Loss: 0.3708
+Accuracy of the network on the 5000 validation images: 45.07640067911715 %
+Epoch [156/400], Step [166/166], Loss: 0.7868
+Accuracy of the network on the 5000 validation images: 45.840407470288625 %
+Epoch [157/400], Step [166/166], Loss: 0.6767
+Accuracy of the network on the 5000 validation images: 44.05772495755518 %
+Epoch [158/400], Step [166/166], Loss: 0.3416
+Accuracy of the network on the 5000 validation images: 43.63327674023769 %
+Epoch [159/400], Step [166/166], Loss: 0.4293
+Accuracy of the network on the 5000 validation images: 44.227504244482176 %
+Epoch [160/400], Step [166/166], Loss: 0.3881
+Accuracy of the network on the 5000 validation images: 43.2937181663837 %
+Epoch [161/400], Step [166/166], Loss: 0.4078
+Accuracy of the network on the 5000 validation images: 44.05772495755518 %
+Epoch [162/400], Step [166/166], Loss: 0.4390
+Accuracy of the network on the 5000 validation images: 43.63327674023769 %
+Epoch [163/400], Step [166/166], Loss: 0.5343
+Accuracy of the network on the 5000 validation images: 43.378607809847196 %
+Epoch [164/400], Step [166/166], Loss: 0.3045
+Accuracy of the network on the 5000 validation images: 44.821731748726656 %
+Epoch [165/400], Step [166/166], Loss: 0.2290
+Accuracy of the network on the 5000 validation images: 44.906621392190154 %
+Epoch [166/400], Step [166/166], Loss: 0.3614
+Accuracy of the network on the 5000 validation images: 42.52971137521222 %
+Epoch [167/400], Step [166/166], Loss: 0.4262
+Accuracy of the network on the 5000 validation images: 46.5195246179966 %
+Epoch [168/400], Step [166/166], Loss: 0.6366
+Accuracy of the network on the 5000 validation images: 44.65195246179966 %
+Epoch [169/400], Step [166/166], Loss: 0.6356
+Accuracy of the network on the 5000 validation images: 43.71816638370119 %
+Epoch [170/400], Step [166/166], Loss: 0.3420
+Accuracy of the network on the 5000 validation images: 42.95415959252971 %
+Epoch [171/400], Step [166/166], Loss: 0.5853
+Accuracy of the network on the 5000 validation images: 43.54838709677419 %
+Epoch [172/400], Step [166/166], Loss: 0.5795
+Accuracy of the network on the 5000 validation images: 43.97283531409168 %
+Epoch [173/400], Step [166/166], Loss: 0.2665
+Accuracy of the network on the 5000 validation images: 45.50084889643463 %
+Epoch [174/400], Step [166/166], Loss: 0.3563
+Accuracy of the network on the 5000 validation images: 46.434634974533104 %
+Epoch [175/400], Step [166/166], Loss: 0.3934
+Accuracy of the network on the 5000 validation images: 43.887945670628184 %
+Epoch [176/400], Step [166/166], Loss: 0.5009
+Accuracy of the network on the 5000 validation images: 41.59592529711375 %
+Epoch [177/400], Step [166/166], Loss: 0.4280
+Accuracy of the network on the 5000 validation images: 44.14261460101868 %
+Epoch [178/400], Step [166/166], Loss: 0.4944
+Accuracy of the network on the 5000 validation images: 44.05772495755518 %
+Epoch [179/400], Step [166/166], Loss: 0.4826
+Accuracy of the network on the 5000 validation images: 43.887945670628184 %
+Epoch [180/400], Step [166/166], Loss: 0.2531
+Accuracy of the network on the 5000 validation images: 43.03904923599321 %
+Epoch [181/400], Step [166/166], Loss: 0.1962
+Accuracy of the network on the 5000 validation images: 45.07640067911715 %
+Epoch [182/400], Step [166/166], Loss: 0.7442
+Accuracy of the network on the 5000 validation images: 44.14261460101868 %
+Epoch [183/400], Step [166/166], Loss: 0.4649
+Accuracy of the network on the 5000 validation images: 43.71816638370119 %
+Epoch [184/400], Step [166/166], Loss: 0.2615
+Accuracy of the network on the 5000 validation images: 42.27504244482173 %
+Epoch [185/400], Step [166/166], Loss: 0.4419
+Accuracy of the network on the 5000 validation images: 43.378607809847196 %
+Epoch [186/400], Step [166/166], Loss: 0.4817
+Accuracy of the network on the 5000 validation images: 43.887945670628184 %
+Epoch [187/400], Step [166/166], Loss: 0.4307
+Accuracy of the network on the 5000 validation images: 41.08658743633277 %
+Epoch [188/400], Step [166/166], Loss: 0.2903
+Accuracy of the network on the 5000 validation images: 43.71816638370119 %
+Epoch [189/400], Step [166/166], Loss: 0.2113
+Accuracy of the network on the 5000 validation images: 45.246179966044146 %
+Epoch [190/400], Step [166/166], Loss: 0.6567
+Accuracy of the network on the 5000 validation images: 44.821731748726656 %
+Epoch [191/400], Step [166/166], Loss: 0.5808
+Accuracy of the network on the 5000 validation images: 43.887945670628184 %
+Epoch [192/400], Step [166/166], Loss: 0.4009
+Accuracy of the network on the 5000 validation images: 44.99151103565365 %
+Epoch [193/400], Step [166/166], Loss: 0.5835
+Accuracy of the network on the 5000 validation images: 43.54838709677419 %
+Epoch [194/400], Step [166/166], Loss: 0.4350
+Accuracy of the network on the 5000 validation images: 46.264855687606115 %
+Epoch [195/400], Step [166/166], Loss: 0.4528
+Accuracy of the network on the 5000 validation images: 43.03904923599321 %
+Epoch [196/400], Step [166/166], Loss: 0.3176
+Accuracy of the network on the 5000 validation images: 41.426146010186756 %
+Epoch [197/400], Step [166/166], Loss: 0.4872
+Accuracy of the network on the 5000 validation images: 45.246179966044146 %
+Epoch [198/400], Step [166/166], Loss: 0.2348
+Accuracy of the network on the 5000 validation images: 42.78438030560272 %
+Epoch [199/400], Step [166/166], Loss: 0.1743
+Accuracy of the network on the 5000 validation images: 46.6893039049236 %
+Epoch [200/400], Step [166/166], Loss: 0.1921
+Accuracy of the network on the 5000 validation images: 43.54838709677419 %
+Epoch [201/400], Step [166/166], Loss: 0.5003
+Accuracy of the network on the 5000 validation images: 45.50084889643463 %
+Epoch [202/400], Step [166/166], Loss: 0.6056
+Accuracy of the network on the 5000 validation images: 42.869269949066215 %
+Epoch [203/400], Step [166/166], Loss: 0.4088
+Accuracy of the network on the 5000 validation images: 45.50084889643463 %
+Epoch [204/400], Step [166/166], Loss: 0.3870
+Accuracy of the network on the 5000 validation images: 44.227504244482176 %
+Epoch [205/400], Step [166/166], Loss: 0.5479
+Accuracy of the network on the 5000 validation images: 45.33106960950764 %
+Epoch [206/400], Step [166/166], Loss: 0.2906
+Accuracy of the network on the 5000 validation images: 45.75551782682513 %
+Epoch [207/400], Step [166/166], Loss: 0.5602
+Accuracy of the network on the 5000 validation images: 43.378607809847196 %
+Epoch [208/400], Step [166/166], Loss: 0.3796
+Accuracy of the network on the 5000 validation images: 42.444821731748725 %
+Epoch [209/400], Step [166/166], Loss: 0.9873
+Accuracy of the network on the 5000 validation images: 42.61460101867572 %
+Epoch [210/400], Step [166/166], Loss: 0.3166
+Accuracy of the network on the 5000 validation images: 44.48217317487266 %
+Epoch [211/400], Step [166/166], Loss: 0.6353
+Accuracy of the network on the 5000 validation images: 43.2937181663837 %
+Epoch [212/400], Step [166/166], Loss: 0.5200
+Accuracy of the network on the 5000 validation images: 43.887945670628184 %
+Epoch [213/400], Step [166/166], Loss: 0.6127
+Accuracy of the network on the 5000 validation images: 44.05772495755518 %
+Epoch [214/400], Step [166/166], Loss: 0.3264
+Accuracy of the network on the 5000 validation images: 43.2937181663837 %
+Epoch [215/400], Step [166/166], Loss: 0.3252
+Accuracy of the network on the 5000 validation images: 44.99151103565365 %
+Epoch [216/400], Step [166/166], Loss: 0.3879
+Accuracy of the network on the 5000 validation images: 44.906621392190154 %
+Epoch [217/400], Step [166/166], Loss: 0.4149
+Accuracy of the network on the 5000 validation images: 42.78438030560272 %
+Epoch [218/400], Step [166/166], Loss: 0.6424
+Accuracy of the network on the 5000 validation images: 44.906621392190154 %
+Epoch [219/400], Step [166/166], Loss: 0.3633
+Accuracy of the network on the 5000 validation images: 43.54838709677419 %
+Epoch [220/400], Step [166/166], Loss: 0.3282
+Accuracy of the network on the 5000 validation images: 45.33106960950764 %
+Epoch [221/400], Step [166/166], Loss: 0.4252
+Accuracy of the network on the 5000 validation images: 42.444821731748725 %
+Epoch [222/400], Step [166/166], Loss: 0.4595
+Accuracy of the network on the 5000 validation images: 43.54838709677419 %
+Epoch [223/400], Step [166/166], Loss: 0.3865
+Accuracy of the network on the 5000 validation images: 46.264855687606115 %
+Epoch [224/400], Step [166/166], Loss: 0.3217
+Accuracy of the network on the 5000 validation images: 46.264855687606115 %
+Epoch [225/400], Step [166/166], Loss: 0.5758
+Accuracy of the network on the 5000 validation images: 43.97283531409168 %
+Epoch [226/400], Step [166/166], Loss: 0.2405
+Accuracy of the network on the 5000 validation images: 44.14261460101868 %
+Epoch [227/400], Step [166/166], Loss: 0.4530
+Accuracy of the network on the 5000 validation images: 44.14261460101868 %
+Epoch [228/400], Step [166/166], Loss: 0.4422
+Accuracy of the network on the 5000 validation images: 43.378607809847196 %
+Epoch [229/400], Step [166/166], Loss: 0.4592
+Accuracy of the network on the 5000 validation images: 43.63327674023769 %
+Epoch [230/400], Step [166/166], Loss: 0.4636
+Accuracy of the network on the 5000 validation images: 44.56706281833616 %
+Epoch [231/400], Step [166/166], Loss: 0.3677
+Accuracy of the network on the 5000 validation images: 43.887945670628184 %
+Epoch [232/400], Step [166/166], Loss: 0.3394
+Accuracy of the network on the 5000 validation images: 46.94397283531409 %
+Epoch [233/400], Step [166/166], Loss: 0.4234
+Accuracy of the network on the 5000 validation images: 44.73684210526316 %
+Epoch [234/400], Step [166/166], Loss: 0.3080
+Accuracy of the network on the 5000 validation images: 44.05772495755518 %
+Epoch [235/400], Step [166/166], Loss: 0.4795
+Accuracy of the network on the 5000 validation images: 45.840407470288625 %
+Epoch [236/400], Step [166/166], Loss: 0.5544
+Accuracy of the network on the 5000 validation images: 42.52971137521222 %
+Epoch [237/400], Step [166/166], Loss: 0.2085
+Accuracy of the network on the 5000 validation images: 44.906621392190154 %
+Epoch [238/400], Step [166/166], Loss: 0.4539
+Accuracy of the network on the 5000 validation images: 43.97283531409168 %
+Epoch [239/400], Step [166/166], Loss: 0.4759
+Accuracy of the network on the 5000 validation images: 44.73684210526316 %
+Epoch [240/400], Step [166/166], Loss: 0.4087
+Accuracy of the network on the 5000 validation images: 41.511035653650254 %
+Epoch [241/400], Step [166/166], Loss: 0.4866
+Accuracy of the network on the 5000 validation images: 45.246179966044146 %
+Epoch [242/400], Step [166/166], Loss: 0.5193
+Accuracy of the network on the 5000 validation images: 43.463497453310694 %
+Epoch [243/400], Step [166/166], Loss: 0.4297
+Accuracy of the network on the 5000 validation images: 46.01018675721562 %
+Epoch [244/400], Step [166/166], Loss: 0.7589
+Accuracy of the network on the 5000 validation images: 45.07640067911715 %
+Epoch [245/400], Step [166/166], Loss: 0.2702
+Accuracy of the network on the 5000 validation images: 44.227504244482176 %
+Epoch [246/400], Step [166/166], Loss: 0.3461
+Accuracy of the network on the 5000 validation images: 43.63327674023769 %
+Epoch [247/400], Step [166/166], Loss: 0.3343
+Accuracy of the network on the 5000 validation images: 44.31239388794567 %
+Epoch [248/400], Step [166/166], Loss: 0.3013
+Accuracy of the network on the 5000 validation images: 42.10526315789474 %
+Epoch [249/400], Step [166/166], Loss: 0.2816
+Accuracy of the network on the 5000 validation images: 46.5195246179966 %
+Epoch [250/400], Step [166/166], Loss: 0.3105
+Accuracy of the network on the 5000 validation images: 44.73684210526316 %
+Epoch [251/400], Step [166/166], Loss: 0.2478
+Accuracy of the network on the 5000 validation images: 42.10526315789474 %
+Epoch [252/400], Step [166/166], Loss: 0.2856
+Accuracy of the network on the 5000 validation images: 43.378607809847196 %
+Epoch [253/400], Step [166/166], Loss: 0.4200
+Accuracy of the network on the 5000 validation images: 44.397283531409165 %
+Epoch [254/400], Step [166/166], Loss: 0.3132
+Accuracy of the network on the 5000 validation images: 47.70797962648557 %
+Epoch [255/400], Step [166/166], Loss: 0.2582
+Accuracy of the network on the 5000 validation images: 44.14261460101868 %
+Epoch [256/400], Step [166/166], Loss: 0.2898
+Accuracy of the network on the 5000 validation images: 46.5195246179966 %
+Epoch [257/400], Step [166/166], Loss: 0.2578
+Accuracy of the network on the 5000 validation images: 45.58573853989813 %
+Epoch [258/400], Step [166/166], Loss: 0.4524
+Accuracy of the network on the 5000 validation images: 44.56706281833616 %
+Epoch [259/400], Step [166/166], Loss: 0.3543
+Accuracy of the network on the 5000 validation images: 45.92529711375212 %
+Epoch [260/400], Step [166/166], Loss: 0.5129
+Accuracy of the network on the 5000 validation images: 43.887945670628184 %
+Epoch [261/400], Step [166/166], Loss: 0.2698
+Accuracy of the network on the 5000 validation images: 45.246179966044146 %
+Epoch [262/400], Step [166/166], Loss: 0.4395
+Accuracy of the network on the 5000 validation images: 45.16129032258065 %
+Epoch [263/400], Step [166/166], Loss: 0.3490
+Accuracy of the network on the 5000 validation images: 47.53820033955857 %
+Epoch [264/400], Step [166/166], Loss: 0.4959
+Accuracy of the network on the 5000 validation images: 43.887945670628184 %
+Epoch [265/400], Step [166/166], Loss: 0.3581
+Accuracy of the network on the 5000 validation images: 44.14261460101868 %
+Epoch [266/400], Step [166/166], Loss: 0.2965
+Accuracy of the network on the 5000 validation images: 45.07640067911715 %
+Epoch [267/400], Step [166/166], Loss: 0.4231
+Accuracy of the network on the 5000 validation images: 42.869269949066215 %
+Epoch [268/400], Step [166/166], Loss: 0.3515
+Accuracy of the network on the 5000 validation images: 43.463497453310694 %
+Epoch [269/400], Step [166/166], Loss: 0.3152
+Accuracy of the network on the 5000 validation images: 46.01018675721562 %
+Epoch [270/400], Step [166/166], Loss: 0.2449
+Accuracy of the network on the 5000 validation images: 41.935483870967744 %
+Epoch [271/400], Step [166/166], Loss: 0.4652
+Accuracy of the network on the 5000 validation images: 43.463497453310694 %
+Epoch [272/400], Step [166/166], Loss: 0.3910
+Accuracy of the network on the 5000 validation images: 43.803056027164686 %
+Epoch [273/400], Step [166/166], Loss: 0.4179
+Accuracy of the network on the 5000 validation images: 46.774193548387096 %
+Epoch [274/400], Step [166/166], Loss: 0.3917
+Accuracy of the network on the 5000 validation images: 39.473684210526315 %
+Epoch [275/400], Step [166/166], Loss: 0.3672
+Accuracy of the network on the 5000 validation images: 43.803056027164686 %
+Epoch [276/400], Step [166/166], Loss: 0.4689
+Accuracy of the network on the 5000 validation images: 45.415959252971135 %
+Epoch [277/400], Step [166/166], Loss: 0.3381
+Accuracy of the network on the 5000 validation images: 45.33106960950764 %
+Epoch [278/400], Step [166/166], Loss: 0.3618
+Accuracy of the network on the 5000 validation images: 44.906621392190154 %
+Epoch [279/400], Step [166/166], Loss: 0.3147
+Accuracy of the network on the 5000 validation images: 46.859083191850594 %
+Epoch [280/400], Step [166/166], Loss: 0.4740
+Accuracy of the network on the 5000 validation images: 46.94397283531409 %
+Epoch [281/400], Step [166/166], Loss: 0.2660
+Accuracy of the network on the 5000 validation images: 47.36842105263158 %
+Epoch [282/400], Step [166/166], Loss: 0.3649
+Accuracy of the network on the 5000 validation images: 45.07640067911715 %
+Epoch [283/400], Step [166/166], Loss: 0.2809
+Accuracy of the network on the 5000 validation images: 44.05772495755518 %
+Epoch [284/400], Step [166/166], Loss: 0.5006
+Accuracy of the network on the 5000 validation images: 42.78438030560272 %
+Epoch [285/400], Step [166/166], Loss: 0.4374
+Accuracy of the network on the 5000 validation images: 45.840407470288625 %
+Epoch [286/400], Step [166/166], Loss: 0.4153
+Accuracy of the network on the 5000 validation images: 44.14261460101868 %
+Epoch [287/400], Step [166/166], Loss: 0.6437
+Accuracy of the network on the 5000 validation images: 43.97283531409168 %
+Epoch [288/400], Step [166/166], Loss: 0.3863
+Accuracy of the network on the 5000 validation images: 43.463497453310694 %
+Epoch [289/400], Step [166/166], Loss: 0.4464
+Accuracy of the network on the 5000 validation images: 43.54838709677419 %
+Epoch [290/400], Step [166/166], Loss: 0.3682
+Accuracy of the network on the 5000 validation images: 42.444821731748725 %
+Epoch [291/400], Step [166/166], Loss: 0.4005
+Accuracy of the network on the 5000 validation images: 41.935483870967744 %
+Epoch [292/400], Step [166/166], Loss: 0.2800
+Accuracy of the network on the 5000 validation images: 43.97283531409168 %
+Epoch [293/400], Step [166/166], Loss: 0.3544
+Accuracy of the network on the 5000 validation images: 46.17996604414262 %
+Epoch [294/400], Step [166/166], Loss: 0.2818
+Accuracy of the network on the 5000 validation images: 44.821731748726656 %
+Epoch [295/400], Step [166/166], Loss: 0.7454
+Accuracy of the network on the 5000 validation images: 44.65195246179966 %
+Epoch [296/400], Step [166/166], Loss: 0.3340
+Accuracy of the network on the 5000 validation images: 43.20882852292021 %
+Epoch [297/400], Step [166/166], Loss: 0.4685
+Accuracy of the network on the 5000 validation images: 41.25636672325976 %
+Epoch [298/400], Step [166/166], Loss: 0.3405
+Accuracy of the network on the 5000 validation images: 42.69949066213922 %
+Epoch [299/400], Step [166/166], Loss: 0.3551
+Accuracy of the network on the 5000 validation images: 41.17147707979626 %
+Epoch [300/400], Step [166/166], Loss: 0.4285
+Accuracy of the network on the 5000 validation images: 45.33106960950764 %
+Epoch [301/400], Step [166/166], Loss: 0.4276
+Accuracy of the network on the 5000 validation images: 43.63327674023769 %
+Epoch [302/400], Step [166/166], Loss: 0.5543
+Accuracy of the network on the 5000 validation images: 44.14261460101868 %
+Epoch [303/400], Step [166/166], Loss: 0.4031
+Accuracy of the network on the 5000 validation images: 39.55857385398981 %
+Epoch [304/400], Step [166/166], Loss: 0.3102
+Accuracy of the network on the 5000 validation images: 44.31239388794567 %
+Epoch [305/400], Step [166/166], Loss: 0.5493
+Accuracy of the network on the 5000 validation images: 43.463497453310694 %
+Epoch [306/400], Step [166/166], Loss: 0.2366
+Accuracy of the network on the 5000 validation images: 44.05772495755518 %
+Epoch [307/400], Step [166/166], Loss: 0.2490
+Accuracy of the network on the 5000 validation images: 42.10526315789474 %
+Epoch [308/400], Step [166/166], Loss: 0.4506
+Accuracy of the network on the 5000 validation images: 44.48217317487266 %
+Epoch [309/400], Step [166/166], Loss: 0.2577
+Accuracy of the network on the 5000 validation images: 45.50084889643463 %
+Epoch [310/400], Step [166/166], Loss: 0.4801
+Accuracy of the network on the 5000 validation images: 42.95415959252971 %
+Epoch [311/400], Step [166/166], Loss: 0.2340
+Accuracy of the network on the 5000 validation images: 44.31239388794567 %
+Epoch [312/400], Step [166/166], Loss: 0.2950
+Accuracy of the network on the 5000 validation images: 43.378607809847196 %
+Epoch [313/400], Step [166/166], Loss: 0.3968
+Accuracy of the network on the 5000 validation images: 43.463497453310694 %
+Epoch [314/400], Step [166/166], Loss: 0.4094
+Accuracy of the network on the 5000 validation images: 44.397283531409165 %
+Epoch [315/400], Step [166/166], Loss: 0.5609
+Accuracy of the network on the 5000 validation images: 44.56706281833616 %
+Epoch [316/400], Step [166/166], Loss: 0.2686
+Accuracy of the network on the 5000 validation images: 45.246179966044146 %
+Epoch [317/400], Step [166/166], Loss: 0.3308
+Accuracy of the network on the 5000 validation images: 43.71816638370119 %
+Epoch [318/400], Step [166/166], Loss: 0.2665
+Accuracy of the network on the 5000 validation images: 43.97283531409168 %
+Epoch [319/400], Step [166/166], Loss: 0.3027
+Accuracy of the network on the 5000 validation images: 45.415959252971135 %
+Epoch [320/400], Step [166/166], Loss: 0.4612
+Accuracy of the network on the 5000 validation images: 42.61460101867572 %
+Epoch [321/400], Step [166/166], Loss: 0.3983
+Accuracy of the network on the 5000 validation images: 43.20882852292021 %
+Epoch [322/400], Step [166/166], Loss: 0.4245
+Accuracy of the network on the 5000 validation images: 42.444821731748725 %
+Epoch [323/400], Step [166/166], Loss: 0.2810
+Accuracy of the network on the 5000 validation images: 44.99151103565365 %
+Epoch [324/400], Step [166/166], Loss: 0.5210
+Accuracy of the network on the 5000 validation images: 42.27504244482173 %
+Epoch [325/400], Step [166/166], Loss: 0.2341
+Accuracy of the network on the 5000 validation images: 44.56706281833616 %
+Epoch [326/400], Step [166/166], Loss: 0.3222
+Accuracy of the network on the 5000 validation images: 43.63327674023769 %
+Epoch [327/400], Step [166/166], Loss: 0.5481
+Accuracy of the network on the 5000 validation images: 44.31239388794567 %
+Epoch [328/400], Step [166/166], Loss: 0.2920
+Accuracy of the network on the 5000 validation images: 41.68081494057725 %
+Epoch [329/400], Step [166/166], Loss: 0.2878
+Accuracy of the network on the 5000 validation images: 44.31239388794567 %
+Epoch [330/400], Step [166/166], Loss: 0.4755
+Accuracy of the network on the 5000 validation images: 43.803056027164686 %
+Epoch [331/400], Step [166/166], Loss: 0.6286
+Accuracy of the network on the 5000 validation images: 45.415959252971135 %
+Epoch [332/400], Step [166/166], Loss: 0.2372
+Accuracy of the network on the 5000 validation images: 45.415959252971135 %
+Epoch [333/400], Step [166/166], Loss: 0.3342
+Accuracy of the network on the 5000 validation images: 44.821731748726656 %
+Epoch [334/400], Step [166/166], Loss: 0.2694
+Accuracy of the network on the 5000 validation images: 44.48217317487266 %
+Epoch [335/400], Step [166/166], Loss: 0.3441
+Accuracy of the network on the 5000 validation images: 45.246179966044146 %
+Epoch [336/400], Step [166/166], Loss: 0.3225
+Accuracy of the network on the 5000 validation images: 44.73684210526316 %
+Epoch [337/400], Step [166/166], Loss: 0.5021
+Accuracy of the network on the 5000 validation images: 44.14261460101868 %
+Epoch [338/400], Step [166/166], Loss: 0.4159
+Accuracy of the network on the 5000 validation images: 44.821731748726656 %
+Epoch [339/400], Step [166/166], Loss: 0.4115
+Accuracy of the network on the 5000 validation images: 44.31239388794567 %
+Epoch [340/400], Step [166/166], Loss: 0.6407
+Accuracy of the network on the 5000 validation images: 43.97283531409168 %
+Epoch [341/400], Step [166/166], Loss: 0.3709
+Accuracy of the network on the 5000 validation images: 43.71816638370119 %
+Epoch [342/400], Step [166/166], Loss: 0.3963
+Accuracy of the network on the 5000 validation images: 44.821731748726656 %
+Epoch [343/400], Step [166/166], Loss: 0.5872
+Accuracy of the network on the 5000 validation images: 43.2937181663837 %
+Epoch [344/400], Step [166/166], Loss: 0.3375
+Accuracy of the network on the 5000 validation images: 44.397283531409165 %
+Epoch [345/400], Step [166/166], Loss: 0.4939
+Accuracy of the network on the 5000 validation images: 44.397283531409165 %
+Epoch [346/400], Step [166/166], Loss: 0.2239
+Accuracy of the network on the 5000 validation images: 46.264855687606115 %
+Epoch [347/400], Step [166/166], Loss: 0.2673
+Accuracy of the network on the 5000 validation images: 42.869269949066215 %
+Epoch [348/400], Step [166/166], Loss: 0.5631
+Accuracy of the network on the 5000 validation images: 44.227504244482176 %
+Epoch [349/400], Step [166/166], Loss: 0.4197
+Accuracy of the network on the 5000 validation images: 45.33106960950764 %
+Epoch [350/400], Step [166/166], Loss: 0.3041
+Accuracy of the network on the 5000 validation images: 46.01018675721562 %
+Epoch [351/400], Step [166/166], Loss: 0.3621
+Accuracy of the network on the 5000 validation images: 43.54838709677419 %
+Epoch [352/400], Step [166/166], Loss: 0.4491
+Accuracy of the network on the 5000 validation images: 43.887945670628184 %
+Epoch [353/400], Step [166/166], Loss: 0.2127
+Accuracy of the network on the 5000 validation images: 42.61460101867572 %
+Epoch [354/400], Step [166/166], Loss: 0.4528
+Accuracy of the network on the 5000 validation images: 45.92529711375212 %
+Epoch [355/400], Step [166/166], Loss: 0.3163
+Accuracy of the network on the 5000 validation images: 44.73684210526316 %
+Epoch [356/400], Step [166/166], Loss: 0.2842
+Accuracy of the network on the 5000 validation images: 42.19015280135823 %
+Epoch [357/400], Step [166/166], Loss: 0.4573
+Accuracy of the network on the 5000 validation images: 42.78438030560272 %
+Epoch [358/400], Step [166/166], Loss: 0.4985
+Accuracy of the network on the 5000 validation images: 42.78438030560272 %
+Epoch [359/400], Step [166/166], Loss: 0.4974
+Accuracy of the network on the 5000 validation images: 46.09507640067912 %
+Epoch [360/400], Step [166/166], Loss: 0.1605
+Accuracy of the network on the 5000 validation images: 47.45331069609507 %
+Epoch [361/400], Step [166/166], Loss: 0.5232
+Accuracy of the network on the 5000 validation images: 45.33106960950764 %
+Epoch [362/400], Step [166/166], Loss: 0.4953
+Accuracy of the network on the 5000 validation images: 44.65195246179966 %
+Epoch [363/400], Step [166/166], Loss: 0.5378
+Accuracy of the network on the 5000 validation images: 43.803056027164686 %
+Epoch [364/400], Step [166/166], Loss: 0.2270
+Accuracy of the network on the 5000 validation images: 45.58573853989813 %
+Epoch [365/400], Step [166/166], Loss: 0.6504
+Accuracy of the network on the 5000 validation images: 45.16129032258065 %
+Epoch [366/400], Step [166/166], Loss: 0.3609
+Accuracy of the network on the 5000 validation images: 43.71816638370119 %
+Epoch [367/400], Step [166/166], Loss: 0.1419
+Accuracy of the network on the 5000 validation images: 42.444821731748725 %
+Epoch [368/400], Step [166/166], Loss: 0.4412
+Accuracy of the network on the 5000 validation images: 43.20882852292021 %
+Epoch [369/400], Step [166/166], Loss: 0.3592
+Accuracy of the network on the 5000 validation images: 44.05772495755518 %
+Epoch [370/400], Step [166/166], Loss: 0.2063
+Accuracy of the network on the 5000 validation images: 44.65195246179966 %
+Epoch [371/400], Step [166/166], Loss: 0.2835
+Accuracy of the network on the 5000 validation images: 45.33106960950764 %
+Epoch [372/400], Step [166/166], Loss: 0.5258
+Accuracy of the network on the 5000 validation images: 43.63327674023769 %
+Epoch [373/400], Step [166/166], Loss: 0.3938
+Accuracy of the network on the 5000 validation images: 44.48217317487266 %
+Epoch [374/400], Step [166/166], Loss: 0.2739
+Accuracy of the network on the 5000 validation images: 46.859083191850594 %
+Epoch [375/400], Step [166/166], Loss: 0.5130
+Accuracy of the network on the 5000 validation images: 45.92529711375212 %
+Epoch [376/400], Step [166/166], Loss: 0.5501
+Accuracy of the network on the 5000 validation images: 43.71816638370119 %
+Epoch [377/400], Step [166/166], Loss: 0.5619
+Accuracy of the network on the 5000 validation images: 44.227504244482176 %
+Epoch [378/400], Step [166/166], Loss: 0.6155
+Accuracy of the network on the 5000 validation images: 41.68081494057725 %
+Epoch [379/400], Step [166/166], Loss: 0.3648
+Accuracy of the network on the 5000 validation images: 43.71816638370119 %
+Epoch [380/400], Step [166/166], Loss: 0.1664
+Accuracy of the network on the 5000 validation images: 43.97283531409168 %
+Epoch [381/400], Step [166/166], Loss: 0.7054
+Accuracy of the network on the 5000 validation images: 44.73684210526316 %
+Epoch [382/400], Step [166/166], Loss: 0.4048
+Accuracy of the network on the 5000 validation images: 46.859083191850594 %
+Epoch [383/400], Step [166/166], Loss: 0.2441
+Accuracy of the network on the 5000 validation images: 44.14261460101868 %
+Epoch [384/400], Step [166/166], Loss: 0.4372
+Accuracy of the network on the 5000 validation images: 45.415959252971135 %
+Epoch [385/400], Step [166/166], Loss: 0.2685
+Accuracy of the network on the 5000 validation images: 46.01018675721562 %
+Epoch [386/400], Step [166/166], Loss: 0.2824
+Accuracy of the network on the 5000 validation images: 44.05772495755518 %
+Epoch [387/400], Step [166/166], Loss: 0.4031
+Accuracy of the network on the 5000 validation images: 42.95415959252971 %
+Epoch [388/400], Step [166/166], Loss: 0.2202
+Accuracy of the network on the 5000 validation images: 43.12393887945671 %
+Epoch [389/400], Step [166/166], Loss: 0.4198
+Accuracy of the network on the 5000 validation images: 40.492359932088284 %
+Epoch [390/400], Step [166/166], Loss: 0.3278
+Accuracy of the network on the 5000 validation images: 45.58573853989813 %
+Epoch [391/400], Step [166/166], Loss: 0.3148
+Accuracy of the network on the 5000 validation images: 45.75551782682513 %
+Epoch [392/400], Step [166/166], Loss: 0.3402
+Accuracy of the network on the 5000 validation images: 44.56706281833616 %
+Epoch [393/400], Step [166/166], Loss: 0.1980
+Accuracy of the network on the 5000 validation images: 44.48217317487266 %
+Epoch [394/400], Step [166/166], Loss: 0.6488
+Accuracy of the network on the 5000 validation images: 45.75551782682513 %
+Epoch [395/400], Step [166/166], Loss: 0.3333
+Accuracy of the network on the 5000 validation images: 48.811544991511035 %
+Epoch [396/400], Step [166/166], Loss: 0.3691
+Accuracy of the network on the 5000 validation images: 44.906621392190154 %
+Epoch [397/400], Step [166/166], Loss: 0.2017
+Accuracy of the network on the 5000 validation images: 46.34974533106961 %
+Epoch [398/400], Step [166/166], Loss: 0.5891
+Accuracy of the network on the 5000 validation images: 43.887945670628184 %
+Epoch [399/400], Step [166/166], Loss: 0.4776
+Accuracy of the network on the 5000 validation images: 43.63327674023769 %
+Epoch [400/400], Step [166/166], Loss: 0.2028
+Accuracy of the network on the 5000 validation images: 45.33106960950764 %
+Accuracy of the network on the 10000 test images: 88.41194435018663 %
+Epoch [1/1000], Step [166/166], Loss: 5.3019
+Accuracy of the network on the 5000 validation images: 0.3395585738539898 %
+Epoch [2/1000], Step [166/166], Loss: 5.2774
+Accuracy of the network on the 5000 validation images: 0.8488964346349746 %
+Epoch [3/1000], Step [166/166], Loss: 5.2383
+Accuracy of the network on the 5000 validation images: 1.1035653650254669 %
+Epoch [4/1000], Step [166/166], Loss: 4.9570
+Accuracy of the network on the 5000 validation images: 1.3582342954159592 %
+Epoch [5/1000], Step [166/166], Loss: 4.9146
+Accuracy of the network on the 5000 validation images: 2.801358234295416 %
+Epoch [6/1000], Step [166/166], Loss: 4.7368
+Accuracy of the network on the 5000 validation images: 3.3106960950764006 %
+Epoch [7/1000], Step [166/166], Loss: 4.8682
+Accuracy of the network on the 5000 validation images: 2.8862478777589136 %
+Epoch [8/1000], Step [166/166], Loss: 4.6514
+Accuracy of the network on the 5000 validation images: 4.66893039049236 %
+Epoch [9/1000], Step [166/166], Loss: 4.3955
+Accuracy of the network on the 5000 validation images: 6.281833616298812 %
+Epoch [10/1000], Step [166/166], Loss: 4.1587
+Accuracy of the network on the 5000 validation images: 5.432937181663837 %
+Epoch [11/1000], Step [166/166], Loss: 4.4762
+Accuracy of the network on the 5000 validation images: 6.281833616298812 %
+Epoch [12/1000], Step [166/166], Loss: 4.3416
+Accuracy of the network on the 5000 validation images: 5.942275042444821 %
+Epoch [13/1000], Step [166/166], Loss: 4.3863
+Accuracy of the network on the 5000 validation images: 7.300509337860781 %
+Epoch [14/1000], Step [166/166], Loss: 4.1025
+Accuracy of the network on the 5000 validation images: 8.488964346349745 %
+Epoch [15/1000], Step [166/166], Loss: 4.2828
+Accuracy of the network on the 5000 validation images: 8.913412563667233 %
+Epoch [16/1000], Step [166/166], Loss: 3.9803
+Accuracy of the network on the 5000 validation images: 8.743633276740237 %
+Epoch [17/1000], Step [166/166], Loss: 4.4825
+Accuracy of the network on the 5000 validation images: 9.422750424448218 %
+Epoch [18/1000], Step [166/166], Loss: 3.9846
+Accuracy of the network on the 5000 validation images: 11.205432937181664 %
+Epoch [19/1000], Step [166/166], Loss: 3.9159
+Accuracy of the network on the 5000 validation images: 11.62988115449915 %
+Epoch [20/1000], Step [166/166], Loss: 4.1224
+Accuracy of the network on the 5000 validation images: 13.412563667232597 %
+Epoch [21/1000], Step [166/166], Loss: 3.8843
+Accuracy of the network on the 5000 validation images: 12.393887945670627 %
+Epoch [22/1000], Step [166/166], Loss: 3.6998
+Accuracy of the network on the 5000 validation images: 12.903225806451612 %
+Epoch [23/1000], Step [166/166], Loss: 3.5208
+Accuracy of the network on the 5000 validation images: 12.98811544991511 %
+Epoch [24/1000], Step [166/166], Loss: 3.2697
+Accuracy of the network on the 5000 validation images: 13.837011884550085 %
+Epoch [25/1000], Step [166/166], Loss: 4.1032
+Accuracy of the network on the 5000 validation images: 15.619694397283531 %
+Epoch [26/1000], Step [166/166], Loss: 3.5650
+Accuracy of the network on the 5000 validation images: 15.534804753820033 %
+Epoch [27/1000], Step [166/166], Loss: 3.3609
+Accuracy of the network on the 5000 validation images: 15.959252971137522 %
+Epoch [28/1000], Step [166/166], Loss: 2.8285
+Accuracy of the network on the 5000 validation images: 16.6383701188455 %
+Epoch [29/1000], Step [166/166], Loss: 3.3635
+Accuracy of the network on the 5000 validation images: 18.42105263157895 %
+Epoch [30/1000], Step [166/166], Loss: 3.1152
+Accuracy of the network on the 5000 validation images: 17.572156196943972 %
+Epoch [31/1000], Step [166/166], Loss: 3.1945
+Accuracy of the network on the 5000 validation images: 17.40237691001698 %
+Epoch [32/1000], Step [166/166], Loss: 3.1018
+Accuracy of the network on the 5000 validation images: 19.524617996604416 %
+Epoch [33/1000], Step [166/166], Loss: 3.6639
+Accuracy of the network on the 5000 validation images: 18.930390492359933 %
+Epoch [34/1000], Step [166/166], Loss: 3.0092
+Accuracy of the network on the 5000 validation images: 19.185059422750424 %
+Epoch [35/1000], Step [166/166], Loss: 2.9832
+Accuracy of the network on the 5000 validation images: 20.458404074702887 %
+Epoch [36/1000], Step [166/166], Loss: 3.1176
+Accuracy of the network on the 5000 validation images: 20.37351443123939 %
+Epoch [37/1000], Step [166/166], Loss: 3.0933
+Accuracy of the network on the 5000 validation images: 19.864176570458405 %
+Epoch [38/1000], Step [166/166], Loss: 3.1918
+Accuracy of the network on the 5000 validation images: 20.882852292020374 %
+Epoch [39/1000], Step [166/166], Loss: 3.0906
+Accuracy of the network on the 5000 validation images: 22.410865874363328 %
+Epoch [40/1000], Step [166/166], Loss: 2.7473
+Accuracy of the network on the 5000 validation images: 21.477079796264857 %
+Epoch [41/1000], Step [166/166], Loss: 2.9623
+Accuracy of the network on the 5000 validation images: 22.580645161290324 %
+Epoch [42/1000], Step [166/166], Loss: 2.7511
+Accuracy of the network on the 5000 validation images: 22.66553480475382 %
+Epoch [43/1000], Step [166/166], Loss: 2.3568
+Accuracy of the network on the 5000 validation images: 23.174872665534807 %
+Epoch [44/1000], Step [166/166], Loss: 2.8012
+Accuracy of the network on the 5000 validation images: 25.466893039049236 %
+Epoch [45/1000], Step [166/166], Loss: 2.8692
+Accuracy of the network on the 5000 validation images: 23.514431239388795 %
+Epoch [46/1000], Step [166/166], Loss: 2.6475
+Accuracy of the network on the 5000 validation images: 25.127334465195247 %
+Epoch [47/1000], Step [166/166], Loss: 3.1878
+Accuracy of the network on the 5000 validation images: 23.599320882852293 %
+Epoch [48/1000], Step [166/166], Loss: 2.3226
+Accuracy of the network on the 5000 validation images: 24.448217317487266 %
+Epoch [49/1000], Step [166/166], Loss: 3.0493
+Accuracy of the network on the 5000 validation images: 26.485568760611205 %
+Epoch [50/1000], Step [166/166], Loss: 2.6854
+Accuracy of the network on the 5000 validation images: 25.551782682512734 %
+Epoch [51/1000], Step [166/166], Loss: 2.7500
+Accuracy of the network on the 5000 validation images: 24.36332767402377 %
+Epoch [52/1000], Step [166/166], Loss: 2.4778
+Accuracy of the network on the 5000 validation images: 25.127334465195247 %
+Epoch [53/1000], Step [166/166], Loss: 2.2914
+Accuracy of the network on the 5000 validation images: 25.97623089983022 %
+Epoch [54/1000], Step [166/166], Loss: 2.5760
+Accuracy of the network on the 5000 validation images: 28.268251273344653 %
+Epoch [55/1000], Step [166/166], Loss: 2.0725
+Accuracy of the network on the 5000 validation images: 26.99490662139219 %
+Epoch [56/1000], Step [166/166], Loss: 2.2061
+Accuracy of the network on the 5000 validation images: 27.843803056027166 %
+Epoch [57/1000], Step [166/166], Loss: 2.6270
+Accuracy of the network on the 5000 validation images: 27.589134125636672 %
+Epoch [58/1000], Step [166/166], Loss: 2.0441
+Accuracy of the network on the 5000 validation images: 29.456706281833615 %
+Epoch [59/1000], Step [166/166], Loss: 2.2420
+Accuracy of the network on the 5000 validation images: 26.7402376910017 %
+Epoch [60/1000], Step [166/166], Loss: 2.2843
+Accuracy of the network on the 5000 validation images: 29.541595925297113 %
+Epoch [61/1000], Step [166/166], Loss: 2.0451
+Accuracy of the network on the 5000 validation images: 26.485568760611205 %
+Epoch [62/1000], Step [166/166], Loss: 2.2425
+Accuracy of the network on the 5000 validation images: 29.456706281833615 %
+Epoch [63/1000], Step [166/166], Loss: 2.5544
+Accuracy of the network on the 5000 validation images: 30.475382003395584 %
+Epoch [64/1000], Step [166/166], Loss: 2.3990
+Accuracy of the network on the 5000 validation images: 30.135823429541595 %
+Epoch [65/1000], Step [166/166], Loss: 2.3347
+Accuracy of the network on the 5000 validation images: 29.202037351443124 %
+Epoch [66/1000], Step [166/166], Loss: 2.0488
+Accuracy of the network on the 5000 validation images: 30.30560271646859 %
+Epoch [67/1000], Step [166/166], Loss: 2.0681
+Accuracy of the network on the 5000 validation images: 30.39049235993209 %
+Epoch [68/1000], Step [166/166], Loss: 2.3815
+Accuracy of the network on the 5000 validation images: 28.438030560271645 %
+Epoch [69/1000], Step [166/166], Loss: 1.9243
+Accuracy of the network on the 5000 validation images: 31.154499151103565 %
+Epoch [70/1000], Step [166/166], Loss: 2.2904
+Accuracy of the network on the 5000 validation images: 29.796264855687607 %
+Epoch [71/1000], Step [166/166], Loss: 2.0016
+Accuracy of the network on the 5000 validation images: 30.984719864176572 %
+Epoch [72/1000], Step [166/166], Loss: 2.5002
+Accuracy of the network on the 5000 validation images: 30.135823429541595 %
+Epoch [73/1000], Step [166/166], Loss: 2.4464
+Accuracy of the network on the 5000 validation images: 30.220713073005093 %
+Epoch [74/1000], Step [166/166], Loss: 2.2349
+Accuracy of the network on the 5000 validation images: 29.796264855687607 %
+Epoch [75/1000], Step [166/166], Loss: 2.0093
+Accuracy of the network on the 5000 validation images: 30.30560271646859 %
+Epoch [76/1000], Step [166/166], Loss: 2.1134
+Accuracy of the network on the 5000 validation images: 29.9660441426146 %
+Epoch [77/1000], Step [166/166], Loss: 1.9552
+Accuracy of the network on the 5000 validation images: 32.42784380305603 %
+Epoch [78/1000], Step [166/166], Loss: 1.5221
+Accuracy of the network on the 5000 validation images: 31.239388794567063 %
+Epoch [79/1000], Step [166/166], Loss: 2.2514
+Accuracy of the network on the 5000 validation images: 31.66383701188455 %
+Epoch [80/1000], Step [166/166], Loss: 1.6713
+Accuracy of the network on the 5000 validation images: 31.494057724957557 %
+Epoch [81/1000], Step [166/166], Loss: 1.5936
+Accuracy of the network on the 5000 validation images: 31.918505942275043 %
+Epoch [82/1000], Step [166/166], Loss: 1.4829
+Accuracy of the network on the 5000 validation images: 32.34295415959253 %
+Epoch [83/1000], Step [166/166], Loss: 1.3984
+Accuracy of the network on the 5000 validation images: 31.40916808149406 %
+Epoch [84/1000], Step [166/166], Loss: 1.6703
+Accuracy of the network on the 5000 validation images: 31.32427843803056 %
+Epoch [85/1000], Step [166/166], Loss: 1.7200
+Accuracy of the network on the 5000 validation images: 32.85229202037351 %
+Epoch [86/1000], Step [166/166], Loss: 1.7366
+Accuracy of the network on the 5000 validation images: 32.088285229202036 %
+Epoch [87/1000], Step [166/166], Loss: 2.3689
+Accuracy of the network on the 5000 validation images: 32.76740237691002 %
+Epoch [88/1000], Step [166/166], Loss: 1.5046
+Accuracy of the network on the 5000 validation images: 33.3616298811545 %
+Epoch [89/1000], Step [166/166], Loss: 1.7469
+Accuracy of the network on the 5000 validation images: 32.76740237691002 %
+Epoch [90/1000], Step [166/166], Loss: 1.7626
+Accuracy of the network on the 5000 validation images: 31.57894736842105 %
+Epoch [91/1000], Step [166/166], Loss: 1.9476
+Accuracy of the network on the 5000 validation images: 33.61629881154499 %
+Epoch [92/1000], Step [166/166], Loss: 1.8339
+Accuracy of the network on the 5000 validation images: 34.04074702886248 %
+Epoch [93/1000], Step [166/166], Loss: 1.5084
+Accuracy of the network on the 5000 validation images: 33.70118845500849 %
+Epoch [94/1000], Step [166/166], Loss: 1.3572
+Accuracy of the network on the 5000 validation images: 32.85229202037351 %
+Epoch [95/1000], Step [166/166], Loss: 1.6920
+Accuracy of the network on the 5000 validation images: 33.276740237691 %
+Epoch [96/1000], Step [166/166], Loss: 1.6342
+Accuracy of the network on the 5000 validation images: 32.34295415959253 %
+Epoch [97/1000], Step [166/166], Loss: 1.4517
+Accuracy of the network on the 5000 validation images: 33.70118845500849 %
+Epoch [98/1000], Step [166/166], Loss: 1.3682
+Accuracy of the network on the 5000 validation images: 33.70118845500849 %
+Epoch [99/1000], Step [166/166], Loss: 1.4521
+Accuracy of the network on the 5000 validation images: 35.144312393887944 %
+Epoch [100/1000], Step [166/166], Loss: 1.4473
+Accuracy of the network on the 5000 validation images: 32.512733446519526 %
+Epoch [101/1000], Step [166/166], Loss: 1.4339
+Accuracy of the network on the 5000 validation images: 33.70118845500849 %
+Epoch [102/1000], Step [166/166], Loss: 1.3933
+Accuracy of the network on the 5000 validation images: 35.483870967741936 %
+Epoch [103/1000], Step [166/166], Loss: 1.3420
+Accuracy of the network on the 5000 validation images: 34.29541595925297 %
+Epoch [104/1000], Step [166/166], Loss: 1.5853
+Accuracy of the network on the 5000 validation images: 33.95585738539898 %
+Epoch [105/1000], Step [166/166], Loss: 1.3581
+Accuracy of the network on the 5000 validation images: 34.21052631578947 %
+Epoch [106/1000], Step [166/166], Loss: 1.4335
+Accuracy of the network on the 5000 validation images: 33.02207130730051 %
+Epoch [107/1000], Step [166/166], Loss: 1.2363
+Accuracy of the network on the 5000 validation images: 34.38030560271647 %
+Epoch [108/1000], Step [166/166], Loss: 1.0583
+Accuracy of the network on the 5000 validation images: 33.02207130730051 %
+Epoch [109/1000], Step [166/166], Loss: 1.1524
+Accuracy of the network on the 5000 validation images: 32.512733446519526 %
+Epoch [110/1000], Step [166/166], Loss: 1.5438
+Accuracy of the network on the 5000 validation images: 33.95585738539898 %
+Epoch [111/1000], Step [166/166], Loss: 1.2805
+Accuracy of the network on the 5000 validation images: 33.61629881154499 %
+Epoch [112/1000], Step [166/166], Loss: 1.3771
+Accuracy of the network on the 5000 validation images: 34.21052631578947 %
+Epoch [113/1000], Step [166/166], Loss: 1.8491
+Accuracy of the network on the 5000 validation images: 36.5874363327674 %
+Epoch [114/1000], Step [166/166], Loss: 1.3605
+Accuracy of the network on the 5000 validation images: 34.550084889643465 %
+Epoch [115/1000], Step [166/166], Loss: 0.9450
+Accuracy of the network on the 5000 validation images: 35.99320882852292 %
+Epoch [116/1000], Step [166/166], Loss: 1.4723
+Accuracy of the network on the 5000 validation images: 34.04074702886248 %
+Epoch [117/1000], Step [166/166], Loss: 1.5637
+Accuracy of the network on the 5000 validation images: 36.078098471986415 %
+Epoch [118/1000], Step [166/166], Loss: 1.4160
+Accuracy of the network on the 5000 validation images: 35.908319185059426 %
+Epoch [119/1000], Step [166/166], Loss: 1.4616
+Accuracy of the network on the 5000 validation images: 37.18166383701188 %
+Epoch [120/1000], Step [166/166], Loss: 1.6882
+Accuracy of the network on the 5000 validation images: 35.99320882852292 %
+Epoch [121/1000], Step [166/166], Loss: 1.6959
+Accuracy of the network on the 5000 validation images: 36.41765704584041 %
+Epoch [122/1000], Step [166/166], Loss: 1.1597
+Accuracy of the network on the 5000 validation images: 36.6723259762309 %
+Epoch [123/1000], Step [166/166], Loss: 1.2495
+Accuracy of the network on the 5000 validation images: 34.71986417657046 %
+Epoch [124/1000], Step [166/166], Loss: 1.2193
+Accuracy of the network on the 5000 validation images: 34.71986417657046 %
+Epoch [125/1000], Step [166/166], Loss: 1.1847
+Accuracy of the network on the 5000 validation images: 35.908319185059426 %
+Epoch [126/1000], Step [166/166], Loss: 1.2247
+Accuracy of the network on the 5000 validation images: 33.70118845500849 %
+Epoch [127/1000], Step [166/166], Loss: 1.3163
+Accuracy of the network on the 5000 validation images: 34.97453310696095 %
+Epoch [128/1000], Step [166/166], Loss: 1.1029
+Accuracy of the network on the 5000 validation images: 32.93718166383701 %
+Epoch [129/1000], Step [166/166], Loss: 1.0931
+Accuracy of the network on the 5000 validation images: 35.73853989813243 %
+Epoch [130/1000], Step [166/166], Loss: 0.9226
+Accuracy of the network on the 5000 validation images: 34.97453310696095 %
+Epoch [131/1000], Step [166/166], Loss: 0.8690
+Accuracy of the network on the 5000 validation images: 33.87096774193548 %
+Epoch [132/1000], Step [166/166], Loss: 1.4128
+Accuracy of the network on the 5000 validation images: 36.926994906621395 %
+Epoch [133/1000], Step [166/166], Loss: 1.1177
+Accuracy of the network on the 5000 validation images: 35.99320882852292 %
+Epoch [134/1000], Step [166/166], Loss: 1.2153
+Accuracy of the network on the 5000 validation images: 35.31409168081494 %
+Epoch [135/1000], Step [166/166], Loss: 1.0269
+Accuracy of the network on the 5000 validation images: 37.011884550084886 %
+Epoch [136/1000], Step [166/166], Loss: 0.8823
+Accuracy of the network on the 5000 validation images: 34.80475382003396 %
+Epoch [137/1000], Step [166/166], Loss: 1.0241
+Accuracy of the network on the 5000 validation images: 37.77589134125637 %
+Epoch [138/1000], Step [166/166], Loss: 1.1975
+Accuracy of the network on the 5000 validation images: 34.46519524617997 %
+Epoch [139/1000], Step [166/166], Loss: 1.1346
+Accuracy of the network on the 5000 validation images: 37.77589134125637 %
+Epoch [140/1000], Step [166/166], Loss: 0.7947
+Accuracy of the network on the 5000 validation images: 35.73853989813243 %
+Epoch [141/1000], Step [166/166], Loss: 1.6498
+Accuracy of the network on the 5000 validation images: 37.096774193548384 %
+Epoch [142/1000], Step [166/166], Loss: 0.8224
+Accuracy of the network on the 5000 validation images: 36.24787775891341 %
+Epoch [143/1000], Step [166/166], Loss: 1.1228
+Accuracy of the network on the 5000 validation images: 36.41765704584041 %
+Epoch [144/1000], Step [166/166], Loss: 1.0391
+Accuracy of the network on the 5000 validation images: 37.26655348047538 %
+Epoch [145/1000], Step [166/166], Loss: 0.5832
+Accuracy of the network on the 5000 validation images: 35.568760611205434 %
+Epoch [146/1000], Step [166/166], Loss: 0.8109
+Accuracy of the network on the 5000 validation images: 37.77589134125637 %
+Epoch [147/1000], Step [166/166], Loss: 0.7243
+Accuracy of the network on the 5000 validation images: 37.35144312393888 %
+Epoch [148/1000], Step [166/166], Loss: 0.9191
+Accuracy of the network on the 5000 validation images: 36.078098471986415 %
+Epoch [149/1000], Step [166/166], Loss: 0.7473
+Accuracy of the network on the 5000 validation images: 36.5874363327674 %
+Epoch [150/1000], Step [166/166], Loss: 0.7142
+Accuracy of the network on the 5000 validation images: 35.568760611205434 %
+Epoch [151/1000], Step [166/166], Loss: 0.7885
+Accuracy of the network on the 5000 validation images: 33.78607809847199 %
+Epoch [152/1000], Step [166/166], Loss: 0.7426
+Accuracy of the network on the 5000 validation images: 38.539898132427844 %
+Epoch [153/1000], Step [166/166], Loss: 0.5172
+Accuracy of the network on the 5000 validation images: 36.24787775891341 %
+Epoch [154/1000], Step [166/166], Loss: 0.5734
+Accuracy of the network on the 5000 validation images: 36.926994906621395 %
+Epoch [155/1000], Step [166/166], Loss: 0.6470
+Accuracy of the network on the 5000 validation images: 37.69100169779287 %
+Epoch [156/1000], Step [166/166], Loss: 0.8550
+Accuracy of the network on the 5000 validation images: 36.6723259762309 %
+Epoch [157/1000], Step [166/166], Loss: 1.3410
+Accuracy of the network on the 5000 validation images: 36.078098471986415 %
+Epoch [158/1000], Step [166/166], Loss: 0.8450
+Accuracy of the network on the 5000 validation images: 37.096774193548384 %
+Epoch [159/1000], Step [166/166], Loss: 0.5277
+Accuracy of the network on the 5000 validation images: 36.16298811544991 %
+Epoch [160/1000], Step [166/166], Loss: 0.6410
+Accuracy of the network on the 5000 validation images: 36.5874363327674 %
+Epoch [161/1000], Step [166/166], Loss: 0.6053
+Accuracy of the network on the 5000 validation images: 37.60611205432937 %
+Epoch [162/1000], Step [166/166], Loss: 1.0842
+Accuracy of the network on the 5000 validation images: 35.568760611205434 %
+Epoch [163/1000], Step [166/166], Loss: 0.7174
+Accuracy of the network on the 5000 validation images: 37.521222410865875 %
+Epoch [164/1000], Step [166/166], Loss: 0.8538
+Accuracy of the network on the 5000 validation images: 36.5874363327674 %
+Epoch [165/1000], Step [166/166], Loss: 0.5421
+Accuracy of the network on the 5000 validation images: 38.030560271646856 %
+Epoch [166/1000], Step [166/166], Loss: 0.7900
+Accuracy of the network on the 5000 validation images: 36.5874363327674 %
+Epoch [167/1000], Step [166/166], Loss: 0.8862
+Accuracy of the network on the 5000 validation images: 35.65365025466893 %
+Epoch [168/1000], Step [166/166], Loss: 0.5242
+Accuracy of the network on the 5000 validation images: 37.86078098471987 %
+Epoch [169/1000], Step [166/166], Loss: 0.4913
+Accuracy of the network on the 5000 validation images: 37.60611205432937 %
+Epoch [170/1000], Step [166/166], Loss: 0.7469
+Accuracy of the network on the 5000 validation images: 34.550084889643465 %
+Epoch [171/1000], Step [166/166], Loss: 0.4741
+Accuracy of the network on the 5000 validation images: 37.77589134125637 %
+Epoch [172/1000], Step [166/166], Loss: 0.5593
+Accuracy of the network on the 5000 validation images: 35.99320882852292 %
+Epoch [173/1000], Step [166/166], Loss: 1.0272
+Accuracy of the network on the 5000 validation images: 36.7572156196944 %
+Epoch [174/1000], Step [166/166], Loss: 0.6951
+Accuracy of the network on the 5000 validation images: 36.41765704584041 %
+Epoch [175/1000], Step [166/166], Loss: 0.4966
+Accuracy of the network on the 5000 validation images: 35.39898132427844 %
+Epoch [176/1000], Step [166/166], Loss: 0.5115
+Accuracy of the network on the 5000 validation images: 36.502546689303905 %
+Epoch [177/1000], Step [166/166], Loss: 0.4700
+Accuracy of the network on the 5000 validation images: 37.43633276740238 %
+Epoch [178/1000], Step [166/166], Loss: 0.7290
+Accuracy of the network on the 5000 validation images: 36.5874363327674 %
+Epoch [179/1000], Step [166/166], Loss: 0.9098
+Accuracy of the network on the 5000 validation images: 37.60611205432937 %
+Epoch [180/1000], Step [166/166], Loss: 0.4130
+Accuracy of the network on the 5000 validation images: 36.24787775891341 %
+Epoch [181/1000], Step [166/166], Loss: 0.6956
+Accuracy of the network on the 5000 validation images: 36.926994906621395 %
+Epoch [182/1000], Step [166/166], Loss: 0.6671
+Accuracy of the network on the 5000 validation images: 38.28522920203735 %
+Epoch [183/1000], Step [166/166], Loss: 0.5118
+Accuracy of the network on the 5000 validation images: 39.30390492359932 %
+Epoch [184/1000], Step [166/166], Loss: 0.6227
+Accuracy of the network on the 5000 validation images: 37.011884550084886 %
+Epoch [185/1000], Step [166/166], Loss: 0.9415
+Accuracy of the network on the 5000 validation images: 36.7572156196944 %
+Epoch [186/1000], Step [166/166], Loss: 0.3697
+Accuracy of the network on the 5000 validation images: 37.521222410865875 %
+Epoch [187/1000], Step [166/166], Loss: 0.7996
+Accuracy of the network on the 5000 validation images: 36.41765704584041 %
+Epoch [188/1000], Step [166/166], Loss: 0.2946
+Accuracy of the network on the 5000 validation images: 36.5874363327674 %
+Epoch [189/1000], Step [166/166], Loss: 0.4729
+Accuracy of the network on the 5000 validation images: 37.77589134125637 %
+Epoch [190/1000], Step [166/166], Loss: 0.4994
+Accuracy of the network on the 5000 validation images: 36.078098471986415 %
+Epoch [191/1000], Step [166/166], Loss: 0.5616
+Accuracy of the network on the 5000 validation images: 37.011884550084886 %
+Epoch [192/1000], Step [166/166], Loss: 0.6023
+Accuracy of the network on the 5000 validation images: 35.39898132427844 %
+Epoch [193/1000], Step [166/166], Loss: 0.6491
+Accuracy of the network on the 5000 validation images: 36.5874363327674 %
+Epoch [194/1000], Step [166/166], Loss: 0.7996
+Accuracy of the network on the 5000 validation images: 35.73853989813243 %
+Epoch [195/1000], Step [166/166], Loss: 0.4195
+Accuracy of the network on the 5000 validation images: 38.28522920203735 %
+Epoch [196/1000], Step [166/166], Loss: 0.4356
+Accuracy of the network on the 5000 validation images: 37.60611205432937 %
+Epoch [197/1000], Step [166/166], Loss: 0.3640
+Accuracy of the network on the 5000 validation images: 36.078098471986415 %
+Epoch [198/1000], Step [166/166], Loss: 0.6906
+Accuracy of the network on the 5000 validation images: 37.096774193548384 %
+Epoch [199/1000], Step [166/166], Loss: 0.3710
+Accuracy of the network on the 5000 validation images: 36.078098471986415 %
+Epoch [200/1000], Step [166/166], Loss: 0.5521
+Accuracy of the network on the 5000 validation images: 36.7572156196944 %
+Epoch [201/1000], Step [166/166], Loss: 0.4696
+Accuracy of the network on the 5000 validation images: 36.16298811544991 %
+Epoch [202/1000], Step [166/166], Loss: 0.4253
+Accuracy of the network on the 5000 validation images: 36.16298811544991 %
+Epoch [203/1000], Step [166/166], Loss: 0.3685
+Accuracy of the network on the 5000 validation images: 37.26655348047538 %
+Epoch [204/1000], Step [166/166], Loss: 0.5694
+Accuracy of the network on the 5000 validation images: 37.60611205432937 %
+Epoch [205/1000], Step [166/166], Loss: 0.2735
+Accuracy of the network on the 5000 validation images: 38.964346349745334 %
+Epoch [206/1000], Step [166/166], Loss: 0.3434
+Accuracy of the network on the 5000 validation images: 39.30390492359932 %
+Epoch [207/1000], Step [166/166], Loss: 0.2253
+Accuracy of the network on the 5000 validation images: 37.86078098471987 %
+Epoch [208/1000], Step [166/166], Loss: 0.3851
+Accuracy of the network on the 5000 validation images: 37.60611205432937 %
+Epoch [209/1000], Step [166/166], Loss: 0.1827
+Accuracy of the network on the 5000 validation images: 37.521222410865875 %
+Epoch [210/1000], Step [166/166], Loss: 0.4193
+Accuracy of the network on the 5000 validation images: 36.8421052631579 %
+Epoch [211/1000], Step [166/166], Loss: 0.3354
+Accuracy of the network on the 5000 validation images: 36.7572156196944 %
+Epoch [212/1000], Step [166/166], Loss: 0.2741
+Accuracy of the network on the 5000 validation images: 36.926994906621395 %
+Epoch [213/1000], Step [166/166], Loss: 0.2939
+Accuracy of the network on the 5000 validation images: 37.60611205432937 %
+Epoch [214/1000], Step [166/166], Loss: 0.3255
+Accuracy of the network on the 5000 validation images: 39.473684210526315 %
+Epoch [215/1000], Step [166/166], Loss: 0.3831
+Accuracy of the network on the 5000 validation images: 38.37011884550085 %
+Epoch [216/1000], Step [166/166], Loss: 0.2854
+Accuracy of the network on the 5000 validation images: 38.030560271646856 %
+Epoch [217/1000], Step [166/166], Loss: 0.2301
+Accuracy of the network on the 5000 validation images: 38.37011884550085 %
+Epoch [218/1000], Step [166/166], Loss: 0.3171
+Accuracy of the network on the 5000 validation images: 37.43633276740238 %
+Epoch [219/1000], Step [166/166], Loss: 0.4739
+Accuracy of the network on the 5000 validation images: 37.26655348047538 %
+Epoch [220/1000], Step [166/166], Loss: 0.2782
+Accuracy of the network on the 5000 validation images: 38.79456706281834 %
+Epoch [221/1000], Step [166/166], Loss: 0.1783
+Accuracy of the network on the 5000 validation images: 38.37011884550085 %
+Epoch [222/1000], Step [166/166], Loss: 0.4123
+Accuracy of the network on the 5000 validation images: 36.6723259762309 %
+Epoch [223/1000], Step [166/166], Loss: 0.2309
+Accuracy of the network on the 5000 validation images: 37.77589134125637 %
+Epoch [224/1000], Step [166/166], Loss: 0.4815
+Accuracy of the network on the 5000 validation images: 38.455008488964346 %
+Epoch [225/1000], Step [166/166], Loss: 0.4902
+Accuracy of the network on the 5000 validation images: 37.011884550084886 %
+Epoch [226/1000], Step [166/166], Loss: 0.5966
+Accuracy of the network on the 5000 validation images: 37.521222410865875 %
+Epoch [227/1000], Step [166/166], Loss: 0.1950
+Accuracy of the network on the 5000 validation images: 35.82342954159593 %
+Epoch [228/1000], Step [166/166], Loss: 0.3417
+Accuracy of the network on the 5000 validation images: 38.455008488964346 %
+Epoch [229/1000], Step [166/166], Loss: 0.2680
+Accuracy of the network on the 5000 validation images: 38.964346349745334 %
+Epoch [230/1000], Step [166/166], Loss: 0.2852
+Accuracy of the network on the 5000 validation images: 37.69100169779287 %
+Epoch [231/1000], Step [166/166], Loss: 0.3928
+Accuracy of the network on the 5000 validation images: 39.30390492359932 %
+Epoch [232/1000], Step [166/166], Loss: 0.2606
+Accuracy of the network on the 5000 validation images: 37.77589134125637 %
+Epoch [233/1000], Step [166/166], Loss: 0.3131
+Accuracy of the network on the 5000 validation images: 38.455008488964346 %
+Epoch [234/1000], Step [166/166], Loss: 0.1015
+Accuracy of the network on the 5000 validation images: 36.5874363327674 %
+Epoch [235/1000], Step [166/166], Loss: 0.2152
+Accuracy of the network on the 5000 validation images: 38.539898132427844 %
+Epoch [236/1000], Step [166/166], Loss: 0.2766
+Accuracy of the network on the 5000 validation images: 37.43633276740238 %
+Epoch [237/1000], Step [166/166], Loss: 0.3413
+Accuracy of the network on the 5000 validation images: 37.35144312393888 %
+Epoch [238/1000], Step [166/166], Loss: 0.1071
+Accuracy of the network on the 5000 validation images: 36.8421052631579 %
+Epoch [239/1000], Step [166/166], Loss: 0.4319
+Accuracy of the network on the 5000 validation images: 36.926994906621395 %
+Epoch [240/1000], Step [166/166], Loss: 0.4746
+Accuracy of the network on the 5000 validation images: 38.37011884550085 %
+Epoch [241/1000], Step [166/166], Loss: 0.3840
+Accuracy of the network on the 5000 validation images: 37.096774193548384 %
+Epoch [242/1000], Step [166/166], Loss: 0.1000
+Accuracy of the network on the 5000 validation images: 38.62478777589134 %
+Epoch [243/1000], Step [166/166], Loss: 0.1527
+Accuracy of the network on the 5000 validation images: 38.879456706281836 %
+Epoch [244/1000], Step [166/166], Loss: 0.1629
+Accuracy of the network on the 5000 validation images: 36.33276740237691 %
+Epoch [245/1000], Step [166/166], Loss: 0.2549
+Accuracy of the network on the 5000 validation images: 38.37011884550085 %
+Epoch [246/1000], Step [166/166], Loss: 0.2450
+Accuracy of the network on the 5000 validation images: 38.030560271646856 %
+Epoch [247/1000], Step [166/166], Loss: 0.3808
+Accuracy of the network on the 5000 validation images: 37.86078098471987 %
+Epoch [248/1000], Step [166/166], Loss: 0.1878
+Accuracy of the network on the 5000 validation images: 37.69100169779287 %
+Epoch [249/1000], Step [166/166], Loss: 0.3006
+Accuracy of the network on the 5000 validation images: 35.908319185059426 %
+Epoch [250/1000], Step [166/166], Loss: 0.4170
+Accuracy of the network on the 5000 validation images: 37.60611205432937 %
+Epoch [251/1000], Step [166/166], Loss: 0.2671
+Accuracy of the network on the 5000 validation images: 37.096774193548384 %
+Epoch [252/1000], Step [166/166], Loss: 0.3224
+Accuracy of the network on the 5000 validation images: 38.539898132427844 %
+Epoch [253/1000], Step [166/166], Loss: 0.3227
+Accuracy of the network on the 5000 validation images: 38.28522920203735 %
+Epoch [254/1000], Step [166/166], Loss: 0.3487
+Accuracy of the network on the 5000 validation images: 36.926994906621395 %
+Epoch [255/1000], Step [166/166], Loss: 0.3111
+Accuracy of the network on the 5000 validation images: 37.86078098471987 %
+Epoch [256/1000], Step [166/166], Loss: 0.4291
+Accuracy of the network on the 5000 validation images: 37.60611205432937 %
+Epoch [257/1000], Step [166/166], Loss: 0.8019
+Accuracy of the network on the 5000 validation images: 37.43633276740238 %
+Epoch [258/1000], Step [166/166], Loss: 0.1462
+Accuracy of the network on the 5000 validation images: 36.8421052631579 %
+Epoch [259/1000], Step [166/166], Loss: 0.2715
+Accuracy of the network on the 5000 validation images: 38.539898132427844 %
+Epoch [260/1000], Step [166/166], Loss: 0.1309
+Accuracy of the network on the 5000 validation images: 38.79456706281834 %
+Epoch [261/1000], Step [166/166], Loss: 0.1366
+Accuracy of the network on the 5000 validation images: 37.69100169779287 %
+Epoch [262/1000], Step [166/166], Loss: 0.2850
+Accuracy of the network on the 5000 validation images: 38.28522920203735 %
+Epoch [263/1000], Step [166/166], Loss: 0.1978
+Accuracy of the network on the 5000 validation images: 36.5874363327674 %
+Epoch [264/1000], Step [166/166], Loss: 0.2816
+Accuracy of the network on the 5000 validation images: 38.62478777589134 %
+Epoch [265/1000], Step [166/166], Loss: 0.4330
+Accuracy of the network on the 5000 validation images: 37.945670628183365 %
+Epoch [266/1000], Step [166/166], Loss: 0.1793
+Accuracy of the network on the 5000 validation images: 37.26655348047538 %
+Epoch [267/1000], Step [166/166], Loss: 0.1981
+Accuracy of the network on the 5000 validation images: 38.964346349745334 %
+Epoch [268/1000], Step [166/166], Loss: 0.1051
+Accuracy of the network on the 5000 validation images: 38.37011884550085 %
+Epoch [269/1000], Step [166/166], Loss: 0.3251
+Accuracy of the network on the 5000 validation images: 38.115449915110354 %
+Epoch [270/1000], Step [166/166], Loss: 0.1606
+Accuracy of the network on the 5000 validation images: 36.8421052631579 %
+Epoch [271/1000], Step [166/166], Loss: 0.2823
+Accuracy of the network on the 5000 validation images: 37.096774193548384 %
+Epoch [272/1000], Step [166/166], Loss: 0.4800
+Accuracy of the network on the 5000 validation images: 38.79456706281834 %
+Epoch [273/1000], Step [166/166], Loss: 0.1541
+Accuracy of the network on the 5000 validation images: 38.70967741935484 %
+Epoch [274/1000], Step [166/166], Loss: 0.1829
+Accuracy of the network on the 5000 validation images: 37.86078098471987 %
+Epoch [275/1000], Step [166/166], Loss: 0.1427
+Accuracy of the network on the 5000 validation images: 38.62478777589134 %

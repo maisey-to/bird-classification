@@ -3,7 +3,7 @@ import pandas as pd
 import torch
 from torch.utils.data import Dataset
 from torchvision.io import decode_image
-
+from PIL import Image
 
 # Creating Custom Dataset with Bird Images 
 # https://pytorch.org/tutorials/beginner/basics/data_tutorial.html#creating-a-custom-dataset-for-your-files
@@ -22,14 +22,15 @@ class BirdImageDataset(Dataset):
         image_id, file_name = self.images.iloc[idx, 0].split(" ")
         image_id = int(image_id)
         img_path = os.path.join(self.img_dir, file_name)
-        image = decode_image(img_path)
-        image_float = image.to(torch.float32) / 255.0
-        label = int(self.labels.iloc[image_id - 1, 0].split(" ")[1])
+        # image = decode_image(img_path)
+        image = Image.open(img_path).convert('RGB')
+        # image_float = image.to(torch.float32) / 255.0
+        label = int(self.labels.iloc[image_id - 1, 0].split(" ")[1]) - 1
         if self.transform:
-            image_float = self.transform(image_float)
+            image = self.transform(image)
         if self.target_transform:
             label = self.target_transform(label)
-        return image_float, label
+        return image, label
 
 dataset = BirdImageDataset(images_file='..\\archive\\CUB_200_2011\\images.txt', labels_file='..\\archive\\CUB_200_2011\\image_class_labels.txt', img_dir='..\\archive\\CUB_200_2011\\images')
 dataset.__getitem__(65)

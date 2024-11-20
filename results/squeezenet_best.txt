@@ -1,0 +1,15 @@
+With Data Augmentation, 40 epochs:
+    Best:
+        Epoch [39/40], Step [166/166], Loss: 3.4428
+        Accuracy of the network on the 5000 validation images: 21.05263157894737 %
+    Final:
+        Epoch [40/40], Step [166/166], Loss: 2.8743
+        Accuracy of the network on the 5000 validation images: 20.118845500848895 %
+
+Without Data Augmentation, 54 epochs
+    Best:
+        Epoch [52/1000], Step [166/166], Loss: 2.4138
+        Accuracy of the network on the 5000 validation images: 24.36332767402377 %
+    Final:
+        Epoch [54/1000], Step [166/166], Loss: 1.8328
+        Accuracy of the network on the 5000 validation images: 23.2597623089983 %

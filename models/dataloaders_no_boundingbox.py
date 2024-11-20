@@ -11,7 +11,7 @@ from torchvision.io import read_image
 from torch.utils.data import Dataset
 from torchvision.io import decode_image
 
-import BirdImageDataset
+from BirdImageDataset import BirdImageDataset
 
 # Device configuration
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -41,14 +41,17 @@ def get_train_valid_loader(data_dir,
 
     # Define transforms
     valid_transform = transforms.Compose([
-            transforms.Resize((224,224)),
+            transforms.Resize((227,227)),
             transforms.ToTensor(),
             normalize,
     ])
+
+    labels_transform = torch.as_tensor
     
     if augment:
         train_transform = transforms.Compose([
-            transforms.RandomCrop(32, padding=4),
+            transforms.Resize((227,227)),
+            transforms.RandomCrop(227, padding=4),
             transforms.RandomHorizontalFlip(),
             transforms.ToTensor(),
             normalize,
@@ -56,24 +59,26 @@ def get_train_valid_loader(data_dir,
 
     else:
         train_transform = transforms.Compose([
-                transforms.Resize((224,224)),
+                transforms.Resize((227,227)),
                 transforms.ToTensor(),
                 normalize,
             ])
 
     # Load the dataset
     train_dataset = BirdImageDataset(
-        annotations_file='..\\archive\\CUB_200_2011\\images.txt',
+        images_file='..\\archive\\CUB_200_2011\\images.txt',
+        labels_file='..\\archive\\CUB_200_2011\\image_class_labels.txt',
         img_dir='..\\archive\\CUB_200_2011\\images',
         transform=train_transform,
-        target_transform=None
+        target_transform=labels_transform
     )
 
     valid_dataset = BirdImageDataset(
-        annotations_file='..\\archive\\CUB_200_2011\\images.txt',
+        images_file='..\\archive\\CUB_200_2011\\images.txt',
+        labels_file='..\\archive\\CUB_200_2011\\image_class_labels.txt',
         img_dir='..\\archive\\CUB_200_2011\\images',
         transform=valid_transform,
-        target_transform=None
+        target_transform=labels_transform
     )
 
     num_train = len(train_dataset)
@@ -107,16 +112,19 @@ def get_test_loader(data_dir,
 
     # define transform
     transform = transforms.Compose([
-        transforms.Resize((224,224)),
+        transforms.Resize((227,227)),
         transforms.ToTensor(),
         normalize,
     ])
 
+    labels_transform = torch.as_tensor
+
     dataset = BirdImageDataset(
-        annotations_file='..\\archive\\CUB_200_2011\\images.txt',
+        images_file='..\\archive\\CUB_200_2011\\images.txt',
+        labels_file='..\\archive\\CUB_200_2011\\image_class_labels.txt',
         img_dir='..\\archive\\CUB_200_2011\\images',
         transform=transform,
-        target_transform=None
+        target_transform=labels_transform
     )
 
     data_loader = torch.utils.data.DataLoader(
@@ -124,11 +132,11 @@ def get_test_loader(data_dir,
     )
 
     return data_loader
-    
+
 # Bird Image Dataset
 train_loader, valid_loader = get_train_valid_loader(None, 
                                                     batch_size=64, 
                                                     augment=False, 
                                                     random_seed=1)
 test_loader = get_test_loader(None, 
-                                batch_size=64)                                          
+                              batch_size=64)
